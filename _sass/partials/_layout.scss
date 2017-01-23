@@ -1,0 +1,17 @@
+.header {
+  margin-bottom: 1em;
+}
+
+.footer {
+  margin-top: 2em;
+}
+
+.post__category {
+  @include inline-code;
+  display: inline-block;
+}
+
+.project__title {
+  margin-left: 2em;
+  text-indent: -2em;
+}

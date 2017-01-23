@@ -1,0 +1,31 @@
+///////////////////////////////////////////////////
+// Typography Variables
+///////////////////////////////////////////////////
+
+//
+// Font stacks
+//
+
+$font-stack-regular: 'burgess-regular', sans-serif;
+$font-stack-bold: 'burgess-semibold', sans-serif;
+
+///////////////////////////////////////////////////
+// Typography definitions
+///////////////////////////////////////////////////
+
+// Serif
+@mixin font-regular {
+  font-family: $font-stack-regular;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 1.5;
+  letter-spacing: 0;
+}
+
+@mixin font-monospace {
+  font-family: monaco, monospace;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0;
+}

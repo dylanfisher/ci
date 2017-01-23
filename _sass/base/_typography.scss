@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5, h6 {
+  @include font-regular;
+  margin: 0 0 0;
+  font-weight: bold;
+}
+
+
+ul, p {
+  margin: 0 0 1em;
+}
+
+pre,
+code {
+  @include font-monospace;
+}
+
+p {
+  pre,
+  code {
+    @include inline-code;
+  }
+}
