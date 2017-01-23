@@ -11,6 +11,7 @@
 @import "core/mixins/ui";
 
 // Base - basic foundation and structural styles
+@import "base/normalize";
 @import "base/bootstrap";
 @import "base/typography";
 @import "base/base";
@@ -19,4 +20,4 @@
 @import "base/helpers";
 
 // Partials - reusable partials and page elements
-@import "partials/layout"
+@import "partials/layout";
