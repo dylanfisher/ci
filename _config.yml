@@ -32,3 +32,16 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+# Custom collections
+collections:
+  projects:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      type: projects
+    values:
+      layout: project
+      permalink: /:collection/:title

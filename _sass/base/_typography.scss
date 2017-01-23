@@ -1,13 +1,14 @@
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
 h1, h2 {
   @include font-large;
 }
 
 h3, h4, h5, h6 {
   @include font-regular;
-  margin: 0 0 0;
-  font-weight: bold;
 }
-
 
 ul, p {
   margin: 0 0 1em;
@@ -23,4 +24,8 @@ p {
   code {
     @include inline-code;
   }
+}
+
+b, strong {
+  font-weight: normal;
 }

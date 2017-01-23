@@ -3,7 +3,6 @@
   top: 60px;
 }
 
-
 .footer {
   position: absolute;
   bottom: 60px;
@@ -14,15 +13,13 @@
   }
 }
 
+.content {
+  margin-top: 60px;
+}
 
 .post__category {
   @include inline-code;
   display: inline-block;
-}
-
-.project__title {
-  margin-left: 2em;
-  text-indent: -2em;
 }
 
 .sidebar {
@@ -32,6 +29,7 @@
   height: 100vh;
   min-height: 550px;
   width: 300px;
+  z-index: 1;
 }
 
 .home-banner {
@@ -65,4 +63,10 @@ $pupil-size: 35%;
   position: absolute;
   transition: transform 0.025s;
   transform: translateY( ($eye-size - $pupil-size) / 2 ) translateX( ($eye-size - $pupil-size) / 2);
+}
+
+.project-list {
+  .project {
+    margin-bottom: 1em;
+  }
 }
