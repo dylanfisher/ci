@@ -27,6 +27,18 @@ $(function() {
     return link_host != document_host && !link.indexOf('mailto:').length;
   };
 
+  $(document).on('click', '.hamburger', function() {
+    $('html').toggleClass('mobile-nav-active');
+  });
+
+  // $(document).on('mouseenter', 'a', function(){
+  //   $('html').addClass('link-active');
+  // });
+
+  // $(document).on('mouseleave', 'a', function(){
+  //   $('html').removeClass('link-active');
+  // });
+
   // Eye code from http://codepen.io/mattah/pen/VjNdPR
 
   var config = {

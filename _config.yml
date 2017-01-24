@@ -13,32 +13,41 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@domain.com
+title: Core Interaction
+email: nika@nikasimovich.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Core Interaction is an extensive investigation in the interface, the mechanism, the
+  controls and the aims of interactive works. Students will learn how to design and develop
+  complex interactive projects and understand how to undertake a comprehensive research
+  and direct their thinking process from brainstorming to final outcome.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-# theme: minima
 gems:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
 
+# Site nav
+navigation:
+  - Projects: /projects
+  - Agenda: /agenda
+  - Readings: /readings
+  - Students: /students
+  - Resources: /resources
+  - Info: /info
+
 # Custom collections
 collections:
   projects:
     output: true
+  readings:
+  students:
 
-# Defaults
+# Collection Defaults
 defaults:
   - scope:
       type: projects

@@ -18,7 +18,7 @@ $font-stack-bold: 'burgess-semibold', sans-serif;
   font-weight: 400;
   font-style: normal;
   font-size: 22px;
-  line-height: 1.4;
+  line-height: 1.2;
   letter-spacing: 0;
 }
 
@@ -34,6 +34,6 @@ $font-stack-bold: 'burgess-semibold', sans-serif;
 @mixin font-monospace {
   font-family: monaco, monospace;
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.2;
   letter-spacing: 0;
 }

@@ -1,0 +1,14 @@
+---
+layout: page
+permalink: /students/index.html
+---
+
+<div class="student-list">
+  {% for student in site.students %}
+    <a href="{{ student.link }}">
+      <div class="student">
+        <h2><a href="https://{{ student.student_id }}.github.io/" class="blank-link">{{ student.first_name }} {{ student.last_name }}</a></h2>
+      </div>
+    </a>
+  {% endfor %}
+</div>

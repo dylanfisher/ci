@@ -4,16 +4,53 @@ layout: default
 
 <div class="project">
   <div class="row">
-    <div class="col-sm-9 col-sm-offset-3">
-      <h1 class="project-title">{{ page.title }}</h1>
-      {% if page.categories.size > 0 %}
-        <div class="project__categories">
-        {{ page.categories | join: ', ' }}
+    <div class="col-sm-7 col-sm-offset-3">
+      <div class="project__index">
+        <h2>{{ page.index }}<span class="divider">–</span></h2>
+      </div>
+      <div class="project__info">
+        <div class="project__title">
+          <h1>{{ page.title }}</h1>
+          {% if page.categories.size > 0 %}
+            <div class="project__categories">
+            {{ page.categories | join: ', ' }}
+            </div>
+          {% endif %}
         </div>
-      {% endif %}
-      <div class="project-content">
+      </div>
+      <div class="page-content">
         {{ content }}
       </div>
     </div>
   </div>
 </div>
+
+
+<div class="page-footer-wrapper">
+  <div class="row">
+    <div class="page-footer">
+      <div class="col-sm-12">
+        {% if page.credits %}
+          <div class="row">
+            <div class="col-sm-7 col-sm-offset-3">
+              <div class="project-credits">
+                <h3>Credits</h3>
+                {{ page.credits }}
+              </div>
+            </div>
+          </div>
+        {% endif %}
+
+        <div class="next-previous-page-navigation">
+          {% if page.previous.url %}
+            <a class="previous-page" href="{{page.previous.url}}" title="{{page.previous.title}}">Previous</a>
+          {% endif %}
+          {% if page.next.url %}
+            <a class="next-page" href="{{page.next.url}}" title="{{page.next.title}}">Next</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+

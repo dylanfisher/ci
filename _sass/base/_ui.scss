@@ -1,10 +1,22 @@
 a {
   text-decoration: none;
   color: #000;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.blank-link {
+  text-decoration: none !important;
+
+  &:hover {
+    text-decoration: underline !important;
+  }
 }
 
 .link--external {
-  cursor: alias;
+  // cursor: alias;
 }
 
 .list--blank {
@@ -18,4 +30,24 @@ a {
   line-height: 1;
   font-weight: normal;
   font-family: sans-serif;
+}
+
+.page-content {
+  li,
+  ol {
+    margin-bottom: $line-height;
+    padding-left: 14px;
+  }
+
+  a {
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
+::selection {
+  background: $green;
 }

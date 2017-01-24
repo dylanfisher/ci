@@ -6,15 +6,20 @@ permalink: /projects/index.html
 <ol class="project-list list--blank">
   {% for project in site.projects %}
     <li class="project">
-      <div class="project__title">
-        <h2>
-          <a class="project__title__link" href="{{ project.url | prepend: site.baseurl }}"><b>{{ project.title }}</b></a>
-        </h2>
-        {% if project.categories.size > 0 %}
-          <div class="project__categories">
-          {{ project.categories | join: ', ' }}
-          </div>
-        {% endif %}
+      <div class="project__index">
+        <h2>{{ project.index }}<span class="divider">–</span></h2>
+      </div>
+      <div class="project__info">
+        <div class="project__title">
+          <h2>
+            <a class="project__title__link blank-link" href="{{ project.url | prepend: site.baseurl }}">{{ project.title }}</a>
+          </h2>
+          {% if project.categories.size > 0 %}
+            <div class="project__categories">
+            {{ project.categories | join: ', ' }}
+            </div>
+          {% endif %}
+        </div>
       </div>
     </li>
   {% endfor %}
