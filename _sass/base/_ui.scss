@@ -46,6 +46,13 @@ a {
       text-decoration: none;
     }
   }
+
+  hr {
+    border: 0;
+    height: 1px;
+    background: black;
+    margin: 3em 0;
+  }
 }
 
 ::selection {

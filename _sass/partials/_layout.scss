@@ -319,3 +319,24 @@ $pupil-size: 30%;
 .student {
   margin-bottom: $line-height;
 }
+
+ol.agenda-list,
+li.agenda {
+  padding-left: 0;
+}
+
+.agenda__row {
+  border-bottom: 1px solid $black;
+  padding: $gutter 0;
+  display: block;
+}
+
+a.agenda__row {
+  &:hover {
+    background-color: $light-pink;
+  }
+}
+
+.agenda-page-row {
+  margin-bottom: $line-height * 2;
+}

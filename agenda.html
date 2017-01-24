@@ -3,4 +3,24 @@ layout: page
 permalink: /agenda/index.html
 ---
 
-<h2>TODO: agenda</h2>
+<ol class="agenda-list list--blank">
+  {% assign agendas = site.agendas | sort: 'start_date' %}
+  {% for agenda in agendas %}
+    <li class="agenda">
+      <div class="row">
+        <div class="col-sm-12">
+          <a class="agenda__row" href="{{ agenda.url | prepend: site.baseurl }}">
+            <div class="row">
+              <div class="col-sm-8">
+                <h2 class="agenda__title">{{ agenda.title }}</h2>
+              </div>
+              <div class="col-sm-4 text-right va-bottom">
+                <div class="agenda__date-range">{{ agenda.date_range }}</div>
+              </div>
+            </div>
+          </a>
+        </div>
+      </div>
+    </li>
+  {% endfor %}
+</ol>

@@ -46,6 +46,8 @@ collections:
     output: true
   readings:
   students:
+  agendas:
+    output: true
 
 # Collection Defaults
 defaults:
@@ -53,4 +55,9 @@ defaults:
       type: projects
     values:
       layout: project
+      permalink: /:collection/:title
+  - scope:
+      type: agendas
+    values:
+      layout: agenda
       permalink: /:collection/:title
