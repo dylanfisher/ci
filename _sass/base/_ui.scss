@@ -33,10 +33,24 @@ a {
 }
 
 .page-content {
-  li,
-  ol {
+  ol,
+  ol li {
     margin-bottom: $line-height;
     padding-left: 14px;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  ul li {
+    position: relative;
+
+    &:before {
+      content: '—';
+
+    }
   }
 
   a {
