@@ -300,7 +300,6 @@ $pupil-size: 30%;
   position: relative;
   display: inline-block;
   transition: transform 0.2s;
-  line-height: 1.4;
 
   &:hover {
     transform: scale(1.05);
@@ -314,6 +313,7 @@ $pupil-size: 30%;
   left: 0;
   transform: translateY(-50%);
   width: 100%;
+  margin-top: 20px;
 }
 
 .student {
