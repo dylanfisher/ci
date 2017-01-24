@@ -7,8 +7,7 @@ date_range:       1/24 – 1/27
 ### Tuesday, Studio
 
 - Introductions
-- Syllabus review
-- Inspiration Resources
+- [Review syllabus](https://docs.google.com/document/d/1-LIN4FORlRYX5_45RADrhr3LfToIexXmyZGbMISJmYE/edit?usp=sharing)
 - Sign up for [weekly presentations](https://docs.google.com/document/d/1LXGHiQjVmEY-LFfSyrloiwcQ6Gt2NVCJ1J5dTGJsIto/edit?usp=sharing)
 - Explain reading questions
 
