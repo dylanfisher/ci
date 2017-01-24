@@ -8,15 +8,16 @@ date_range:       1/24 – 1/27
 
 - Introductions
 - Syllabus review
-- Presentation basics
 - Inspiration Resources
-- Sign up for weekly presentations
+- Sign up for [weekly presentations](https://docs.google.com/document/d/1LXGHiQjVmEY-LFfSyrloiwcQ6Gt2NVCJ1J5dTGJsIto/edit?usp=sharing)
+- Explain reading questions
 
 
 ### Homework
 
-- Find an example of a website with nice typography
-- Reading: Staples, Typography and the Screen
+- Find an example of a website with typography you find engaging.
+- Reading: [Staples, Typography and the Screen](/assets/readings/staples-typography.pdf)
+- [Discussion question](https://docs.google.com/document/d/1zvMFSkWFktWuv0O7ESqjfGFFFrwg34OH-BNWNLkuU-U/edit?usp=sharing)
 
 ---
 

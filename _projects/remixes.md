@@ -3,23 +3,22 @@ title:            Remixes
 date:             2017-01-21 00:00:00 -0500
 index:            1
 categories:       Studio Lab
-credits:          Inspired from xyz
+credits:          Inspired by a similar project from Laurel Schwulst
 ---
 
 ### Instructions
 
-1. I’d like you to imagine a website as a destination. The destination should be fictitious, but should have a reason for existing. Think about how one feels when they land on the page, what kind of information is necessary to communicate the goal of the vacation, and how the experience of being in the destination changes over time. How does time pass at your dream vacation? The website should feel alive and self-aware. The website can take the form of an environment, but doesn’t have to. You are also allowed to bring in any content (existing or imaginary) to the assignment, as long as it supports your idea.
-2. In addition to the website, you are required to design either a  printed postcard to accompany and announce the project. The postcards should be printed on two sides, and include a URL to the project. Or, an animation to be posted on social media with the same purpose. Be prepared to explain why you chose one or the other.
+1. Find a poem to typeset. The poem should be written by an outside source, and be published online, either by the author or a third party at some point in time. Be prepared to explain why you chose the poem. 
+2. Typeset the poem on a webpage using basic HTML elements. The website should include the name of the poem, the author, the variation number, and a link to the next poem somewhere on the page. This archival notation should feel separate from the poem, and should be consistent on all of the pages.
+3. Using HTML and CSS, make 20 variations of the same poem. Each should be different from the next. Think about how breaking up each line affects the legibility. Think about scale, and consistency. How do you think the author would have intended the poem to be read? How would you design it? What would be the most inappropriate setting of the type be? Consider applying a system or theme to your changes i.e: with each change, the typesetting gets increasingly illegible.
+4. The entire series should be in black and white, unless you have a specific reason for adding color.
+5. Name your project
 
-### Goals
-
-1. To consider a website as a living piece of art.
-2. To think about how a website changes with time.
 
 ### Deadlines
 
-Initial concept presentation April 21, 2017. Final critiques will be on May 10th and May 12th, 2017.
+Project due February 3
 
 ### References
 
-[An example link](http://www.link1.com)
+
