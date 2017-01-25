@@ -4,7 +4,8 @@ permalink: /projects/index.html
 ---
 
 <ol class="project-list list--blank">
-  {% for project in site.projects %}
+  {% assign projects = site.projects | sort: 'index' %}
+  {% for project in projects %}
     <li class="project">
       <div class="project__index">
         <h2>{{ project.index }}<span class="divider">–</span></h2>

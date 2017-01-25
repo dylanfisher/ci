@@ -27,3 +27,9 @@ date_range:       1/24 – 1/27
 - GitHub introduction
 
 ### Homework
+
+- Read [The seven rules of a great git commit message](http://chris.beams.io/posts/git-commit/#seven-rules)
+- Customize the index of your GitHub repo by adding some simple text, or
+  experimenting with basic HTML tags. Practice changing the file, committing it
+  with a message, and pushing the change to GitHub.
+- Everyone should come to class on Week 2 with several additional commits logged.

@@ -46,6 +46,8 @@ a {
 
   ul li {
     position: relative;
+    text-indent: -0.9em;
+    margin-left: 0.9em;
 
     &:before {
       content: '—';
