@@ -33,3 +33,17 @@ date_range:       1/24 – 1/27
   experimenting with basic HTML tags. Practice changing the file, committing it
   with a message, and pushing the change to GitHub.
 - Everyone should come to class on Week 2 with several additional commits logged.
+
+---
+
+### Link Dump
+
+- [documenta14.de/en](http://www.documenta14.de/en/)
+- [astronaut.io](http://astronaut.io/)
+- [temporarystedelijk.com](http://temporarystedelijk.com/)
+- [andorforever.com](http://andorforever.com/)
+- [rama.works](https://rama.works/)
+- [radio.garden](http://radio.garden/live/)
+- [ohshitgit.com](http://ohshitgit.com/)
+- [wktv.online](http://wktv.online/)
+- [booksongraphicdesign.com](https://booksongraphicdesign.com/)
