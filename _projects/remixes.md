@@ -3,12 +3,11 @@ title:            Remixes
 date:             2017-01-21 00:00:00 -0500
 index:            1
 categories:       Studio Lab
-credits:          Inspired by the "25 Variations" project by Laurel Schwulst from her Very Interactive course.
 ---
 
 ### Instructions
 
-1. Find a poem to typeset. The poem should be written by an outside source, and be published online, either by the author or a third party at some point in time. Be prepared to explain why you chose the poem. 
+1. Find a poem to typeset. The poem should be written by an outside source, and be published online, either by the author or a third party at some point in time. Be prepared to explain why you chose the poem.
 2. Typeset the poem on a webpage using basic HTML elements.
 3. Think about other ways of displaying the type, and decide on 5 rules for how the type will change in a series of 4. Example: One rule is that the poem will increase in scale, so do 5 variations of the poem changing in size. Another rule is that the text will get increasingly harder to read. A third is that the type will incremently move off the page.
 4. Using HTML (and CSS, should you feel appropriate) make 4 variations of the poem for each rule. Think about how breaking up each line affects the legibility. Think about scale, and consistency. How do you think the author would have intended the poem to be read? How would you design it? What would be the most inappropriate setting of the type be?
@@ -19,4 +18,6 @@ credits:          Inspired by the "25 Variations" project by Laurel Schwulst fro
 
 Project due February 3
 
-### References
+### Credits
+
+Inspired by the "25 Variations" project by Laurel Schwulst from her Very Interactive course.

@@ -37,6 +37,10 @@ a {
   ol li {
     margin-bottom: $line-height;
     padding-left: 14px;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
   }
 
   ul {
@@ -51,7 +55,6 @@ a {
 
     &:before {
       content: '—';
-
     }
   }
 
