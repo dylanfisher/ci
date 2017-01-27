@@ -46,7 +46,7 @@ date_range:       1/24 – 1/27
 - Poem resources: [Poetry Foundation](https://www.poetryfoundation.org/), [CCA Libraries](http://libraries.cca.edu/), [UbuWeb](http://ubuweb.com/), [Poetry Archive](http://www.poetryarchive.org/)
 - [Basic HTML demo](http://www.w3schools.com/html/html_basic.asp)
 - Demonstrate where to save your project:<br> *username.github.io-master/projects/remixes/index.html*<br>
-(you will create a projects folder, a remixes folder, and an index.html file)
+  (you will create a projects folder, a remixes folder, and an index.html file)
 - Look at typography examples
 - Mention link dump
 - Work time
@@ -59,3 +59,14 @@ date_range:       1/24 – 1/27
 - Typeset your poem (HTML only OK) and upload it to your github account using the above nomenclature.
 - Brainstorm a few ideas for a system for how your poem will change with each iteration.
 
+### Link Dump
+
+- [documenta14.de/en](http://www.documenta14.de/en/)
+- [astronaut.io](http://astronaut.io/)
+- [temporarystedelijk.com](http://temporarystedelijk.com/)
+- [andorforever.com](http://andorforever.com/)
+- [rama.works](https://rama.works/)
+- [radio.garden](http://radio.garden/live/)
+- [ohshitgit.com](http://ohshitgit.com/)
+- [wktv.online](http://wktv.online/)
+- [booksongraphicdesign.com](https://booksongraphicdesign.com/)

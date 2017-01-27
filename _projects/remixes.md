@@ -3,7 +3,6 @@ title:            Remixes
 date:             2017-01-21 00:00:00 -0500
 index:            1
 categories:       Studio Lab
-credits:          Inspired by the "25 Variations" project by Laurel Schwulst from her Very Interactive course.
 ---
 
 ### Instructions
@@ -16,11 +15,18 @@ credits:          Inspired by the "25 Variations" project by Laurel Schwulst fro
 6. The website should include the name of the poem, the author, the variation title and variation number, and a link to the next poem somewhere on the page. This archival notation should feel separate from the poem.
 
 ### Deadlines
+
 Starting poem in html due January 31 with ideas for 5 rules<br/>
 Final project due February 3
 
 ### Resources
+
 [Poetry Foundation](https://www.poetryfoundation.org/)<br>
 [CCA Libraries](http://libraries.cca.edu/)<br>
 [UbuWeb](http://ubuweb.com/)<br>
 [Poetry Archive](http://www.poetryarchive.org/)
+
+### Credits
+
+Inspired by the "25 Variations" project by Laurel Schwulst from her Very Interactive course.
+

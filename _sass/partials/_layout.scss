@@ -145,7 +145,7 @@
 
 .sidebar {
   display: none;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 60px;
   height: 100vh;
@@ -226,6 +226,15 @@ $pupil-size: 30%;
   }
 }
 
+.project {
+  &:last-child {
+    &,
+    .project__title {
+      margin-bottom: 0;
+    }
+  }
+}
+
 .project__index,
 .project__info {
   display: block;
@@ -235,6 +244,10 @@ $pupil-size: 30%;
     display: inline-block;
     text-align: left;
   }
+}
+
+.layout--project .project__info {
+  margin-bottom: 1em;
 }
 
 .project__index {
@@ -258,6 +271,7 @@ $pupil-size: 30%;
 
 .page-content {
   min-height: calc(100vh - 140px);
+  padding-bottom: 60px;
 }
 
 .page-footer-wrapper {
@@ -319,11 +333,15 @@ $pupil-size: 30%;
 
 .student {
   margin-bottom: $line-height;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
 }
 
 ol.agenda-list,
 li.agenda {
-  padding-left: 0;
+  padding-left: 0 !important;
 }
 
 .agenda__row {
