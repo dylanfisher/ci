@@ -4,6 +4,7 @@ date:             2017-01-22 00:00:00 -0500
 index:            7
 categories:       Studio
 ---
+
 ### Instructions
 
 1. You will be giving a 15-20 minute presentation on a reading.

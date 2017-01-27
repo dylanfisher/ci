@@ -59,6 +59,8 @@ date_range:       1/24 – 1/27
 - Typeset your poem (HTML only OK) and upload it to your github account using the above nomenclature.
 - Brainstorm a few ideas for a system for how your poem will change with each iteration.
 
+---
+
 ### Link Dump
 
 - [documenta14.de/en](http://www.documenta14.de/en/)
