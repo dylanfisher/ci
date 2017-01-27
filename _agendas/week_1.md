@@ -41,7 +41,6 @@ date_range:       1/24 – 1/27
 - [Lecture on typography and the screen](/assets/lectures/lecture1_staples.pdf)
 - Discussion questions
 - [Observe reading presentations](/projects/reading)
-- Reminder: Erica will be presenting next class about [Typophoto](/assets/readings/moholy-nagy-laszlo-typophoto.pdf)
 - Introduce [Remixes](/projects/remixes)
 - Poem resources: [Poetry Foundation](https://www.poetryfoundation.org/), [CCA Libraries](http://libraries.cca.edu/), [UbuWeb](http://ubuweb.com/), [Poetry Archive](http://www.poetryarchive.org/)
 - [Basic HTML demo](http://www.w3schools.com/html/html_basic.asp)
@@ -53,11 +52,10 @@ date_range:       1/24 – 1/27
 
 ### Homework
 
-- Read [Typophoto](/assets/readings/moholy-nagy-laszlo-typophoto.pdf) and [Protocol Chapter 1](/assets/readings/galloway-alexander-protocol.pdf)
+- Read [Typophoto](/assets/readings/moholy-nagy-laszlo-typophoto.pdf) and [The Crystal Goblet](/assets/readings/warde-beatrice_the-crystal-goblet.pdf)
 - [Discussion question](https://docs.google.com/document/d/1IM-rqZtCQ9_DC0ElFMbqOZ9wxUSlPPYDqbLZZjRCIE0/edit?usp=sharing)
-- Erica, prepare your presentation
 - Typeset your poem (HTML only OK) and upload it to your github account using the above nomenclature.
-- Brainstorm a few ideas for a system for how your poem will change with each iteration.
+- Brainstorm a few ideas for a system for how your poem will change with each iteration and start programming it. Do as much as you can. The more you have the more time we'll have to discuss it before the final (due on Friday).
 
 ---
 
