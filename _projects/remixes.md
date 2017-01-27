@@ -13,6 +13,7 @@ categories:       Studio Lab
 4. Using HTML (and CSS, should you feel appropriate) make 4 variations of the poem for each rule. Think about how breaking up each line affects the legibility. Think about scale, and consistency. How do you think the author would have intended the poem to be read? How would you design it? What would be the most inappropriate setting of the type be?
 5. The entire series should be in black and white, unless you have a specific reason for adding color.
 6. The website should include the name of the poem, the author, the variation title and variation number, and a link to the next poem somewhere on the page. This archival notation should feel separate from the poem.
+8. This is a type only project (no images)
 
 ### Deadlines
 
