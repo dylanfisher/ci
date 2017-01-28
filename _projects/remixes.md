@@ -23,7 +23,7 @@ Final project due February 3
 ### Resources
 
 [Poetry Foundation](https://www.poetryfoundation.org/)<br>
-[CCA Libraries](http://libraries.cca.edu/)<br>
+[Poem Hunter](https://www.poemhunter.com/)<br>
 [UbuWeb](http://ubuweb.com/)<br>
 [Poetry Archive](http://www.poetryarchive.org/)
 

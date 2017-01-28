@@ -42,7 +42,7 @@ date_range:       1/24 – 1/27
 - Discussion questions
 - [Observe reading presentations](/projects/reading)
 - Introduce [Remixes](/projects/remixes)
-- Poem resources: [Poetry Foundation](https://www.poetryfoundation.org/), [CCA Libraries](http://libraries.cca.edu/), [UbuWeb](http://ubuweb.com/), [Poetry Archive](http://www.poetryarchive.org/)
+- Poem resources: [Poetry Foundation](https://www.poetryfoundation.org/), [Poem Hunter](https://www.poemhunter.com/), [UbuWeb](http://ubuweb.com/), [Poetry Archive](http://www.poetryarchive.org/)
 - [Basic HTML demo](http://www.w3schools.com/html/html_basic.asp)
 - Demonstrate where to save your project:<br> *username.github.io-master/projects/remixes/index.html*<br>
   (you will create a projects folder, a remixes folder, and an index.html file)
