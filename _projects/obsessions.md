@@ -10,7 +10,7 @@ categories:       Studio Lab
 2. Think about how the archive is organized (or disorganized).
 3. The project must include a visual component: photos, illustrations, etc.
 4. The content can be found, your own, or a combination of both.
-5. Consider how the user interacts with your archive, and how the archive is experienced. Is it immediately accessible in it’s entirety, or is the user required to discover it?
+5. Consider how the user interacts with your archive, and how the archive is experienced. Is it immediately accessible in its entirety, or is the user required to discover it?
 6. Project must have a title and favicon.
 7. Please include a paragraph on why you chose this collection of items to archive and your intention behind organizing it the way that you have.
 8. You will be graded on concept, execution, and consistency.
