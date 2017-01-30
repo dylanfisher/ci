@@ -45,14 +45,6 @@ $(function() {
     returnSpeed: 0.4
   };
 
-  function r2d(r) {
-    return 180 / Math.PI * r;
-  }
-
-  function random(min, max) {
-    return min + (max - min) * Math.random();
-  }
-
   if ( $('#eye').length ) {
     /**
     * Eye model object
@@ -61,19 +53,18 @@ $(function() {
     function Eye(sel) {
       // dom
       this.eye = document.querySelector(sel);
-      this.pupil = this.eye.children[0];
-      this.lid = this.eye.children[1];
+      this.pupil = document.getElementById('pupil');
 
       // widths
-      this.ew = this.eye.offsetWidth;
-      this.pw = this.pupil.offsetWidth;
+      // this.ew = this.eye.offsetWidth;
+      // this.pw = this.pupil.offsetWidth;
+      this.ew = this.eye.getBoundingClientRect().width;
+      this.pw = this.pupil.getBoundingClientRect().width;
+      console.log('this.pw', this.pw);
 
       // centered position
-      this.cx = this.eye.getBoundingClientRect().right - this.ew/2;
-      this.cy = this.eye.getBoundingClientRect().bottom - this.ew/2;
-
-      // state
-      this.bLidUp = true;
+      this.cx = this.eye.getBoundingClientRect().right - this.ew / 2;
+      this.cy = this.eye.getBoundingClientRect().bottom - this.ew / 2;
     }
 
     Eye.prototype.movePupil = function(r, theta) {
@@ -83,8 +74,8 @@ $(function() {
       r *= (this.ew/2 - this.pw/2); // restrict edge of pupil to edge of eye
 
       // convert polar to rectangular
-      x = r * Math.cos(theta) + (this.ew - this.pw)/2;
-      y = r * Math.sin(theta) + (this.ew - this.pw)/2;
+      x = ( r * Math.cos(theta) + (this.ew - this.pw) / 2 ) - this.pw * 1.4;
+      y = ( r * Math.sin(theta) + (this.ew - this.pw) / 2 ) - this.pw * 1.4;
 
       this.pupil.style.transform = 'translateX(' + x + 'px)' +
                                     'translateY(' + y + 'px)';
@@ -94,9 +85,8 @@ $(function() {
     * pupil-mouse tracking and draw
     * -----------------------------
     */
-    var eye = new Eye('#eye'),
+    var eye = new Eye('#eye-path'),
         eyes = [eye], // array of eyes to move
-        eyeCount = eyes.length,
         wrapper = $('body')[0], // boundary container
         R = 0, //todo: capitalized vars typically constants
         THETA = 0,
@@ -126,7 +116,7 @@ $(function() {
       // get bbox bounds
       bboxWidth = wrapperWidth;
       bboxHeight = wrapperHeight;
-      bbRadius = Math.sqrt(Math.pow(bboxWidth,2) + Math.pow(bboxHeight, 2)) /2;
+      bbRadius = Math.sqrt(Math.pow(bboxWidth,2) + Math.pow(bboxHeight, 2)) / 2;
 
       // computer,  theta
       R = Math.sqrt(Math.pow(x,2) + Math.pow(y,2)) / bbRadius;
@@ -158,38 +148,6 @@ $(function() {
 
     }
     draw();
-
-    /**
-    * add eye
-    * -----------------------------
-    */
-    function addEye() {
-      var newEye = document.createElement('div'),
-          newPupil = document.createElement('div'),
-          newLid = document.createElement('div');
-
-      // set class names of new nodes, and ID of eye
-      newPupil.className += ' pupil';
-      newLid.className += ' lid';
-      newEye.className += ' eye';
-      newEye.id = 'eye-' + (++eyeCount);
-
-      // Add new eye to dom
-      document.body.appendChild(newEye);
-      newEye.appendChild(newPupil);
-      newEye.appendChild(newLid);
-
-      // style eye
-      var x = random(-0.5, 0.5) * wrapperWidth,
-          y = random(-0.5, 0.5) * wrapperHeight,
-          scale = random(0.25, 0.9);
-      newEye.style.transform = 'translateX(' + x + 'px)' +
-                               ' translateY('+ y +'px)' +
-                               ' scale(' + scale + ')';
-
-      var eyeObj = new Eye('#' + newEye.id);
-      eyes.push(eyeObj);
-    }
 
     /**
     * Event handlers

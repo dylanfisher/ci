@@ -151,7 +151,7 @@
   height: 100vh;
   min-height: 550px;
   width: 300px;
-  z-index: 1;
+  z-index: 2;
 
   @include breakpoint(sm) {
     display: block;
@@ -161,6 +161,8 @@
 .home-banner {
   text-align: center;
   margin: 30px 0 30px;
+  position: relative;
+  z-index: 1;
 
   @include breakpoint(sm) {
     margin: 60px 0 0;
@@ -173,45 +175,25 @@
   }
 }
 
-$eye-size: 30%;
-$eye-width: 45%;
+$eye-size: 50%;
+$eye-width: 65%;
 $eye-size-mobile: 60%;
 $eye-width-mobile: 85%;
 $pupil-size: 30%;
 
 .eye {
-  background-color: #FFF1F1;
   width: $eye-width-mobile;
-  padding-bottom: $eye-size-mobile;
-  margin-left: $eye-width-mobile / -2;
-  height: 0;
-  border-radius: 50%;
-  left: 50%;
-  margin-top: 80px;
-  transform: translate3d(0, 0, 0);
-  overflow: hidden;
-  box-shadow: 0 2px 4px 0 rgba(255, 73, 238, 0.20);
-  background-image: linear-gradient(-180deg, #FFF1F1 4%, #FFFAEC 97%);
-  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 
   @include breakpoint(sm) {
-    position: absolute;
     width: $eye-width;
-    padding-bottom: $eye-size;
-    margin-left: $eye-width / -2;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
   }
-}
-
-.eye__pupil {
-  background-color: $black;
-  border-radius: 50%;
-  width: $pupil-size;
-  height: 0;
-  padding-bottom: $pupil-size;
-  position: absolute;
-  transition: transform 0.025s;
-  transform: translateY( ($eye-size - $pupil-size) / 2 ) translateX( ($eye-size - $pupil-size) / 2);
-  margin-top: $pupil-size / -2;
 }
 
 .project-list {
