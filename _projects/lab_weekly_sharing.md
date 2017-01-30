@@ -8,10 +8,9 @@ ongoing:          true
 
 ### Overview
 
-1. Each week one student will give an informal 5-10 minute presentation on a point of interest to the class. This can take the form of a
-   website, exhibition, event, or something else entirely.
+1. Each week one student will give an informal 5-10 minute presentation on a topic of interest to the class. This can take the form of a
+   website, new technology, exhibition, current event, or something else entirely.
 2. Be prepared to discuss why you chose this item to share, and how it relates the class.
-
 
 ### Schedule
 
