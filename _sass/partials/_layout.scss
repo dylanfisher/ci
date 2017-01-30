@@ -314,11 +314,16 @@ $pupil-size: 30%;
 }
 
 .student {
-  margin-bottom: $line-height;
+  margin-bottom: $line-height * 2;
 
   &:last-child {
     margin-bottom: 0;
   }
+}
+
+.student-list__github-link {
+  margin-top: 5px;
+  display: inline-block;
 }
 
 ol.agenda-list,
