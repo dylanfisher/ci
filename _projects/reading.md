@@ -1,8 +1,9 @@
 ---
-title:            Reading Presentation
+title:            Reading Presentations
 date:             2017-01-22 00:00:00 -0500
-index:            7
+index:            100
 categories:       Studio
+ongoing:          true
 ---
 
 ### Instructions
@@ -13,5 +14,3 @@ categories:       Studio
 4. Second page should include a concise summary of the reading (1-2 sentences)
 5. PDF should be 16:9 aspect ratio and should be uploaded to your github account.
 6. PDF should be < 6mb
-
-

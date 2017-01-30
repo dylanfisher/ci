@@ -4,6 +4,7 @@ date:             2017-01-22 00:00:00 -0500
 index:            2
 categories:       Studio Lab
 ---
+
 ### Instructions
 
 1. Design a 3.5″ × 5″ Valentine’s Day card for everyone in the class. The card content is up to you, but should include type on it in some capacity. Print and distribute the cards to the class.

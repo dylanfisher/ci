@@ -217,6 +217,12 @@ $pupil-size: 30%;
   }
 }
 
+.project--onoing-true {
+  .project__index__number {
+    display: none;
+  }
+}
+
 .project__index,
 .project__info {
   display: block;
@@ -252,7 +258,7 @@ $pupil-size: 30%;
 }
 
 .page-content {
-  min-height: calc(100vh - 140px);
+  min-height: calc(100vh - 200px);
   padding-bottom: 60px;
 }
 
@@ -329,6 +335,10 @@ $pupil-size: 30%;
 ol.agenda-list,
 li.agenda {
   padding-left: 0 !important;
+}
+
+li.agenda {
+  margin-bottom: 0 !important;
 }
 
 .agenda__row {
