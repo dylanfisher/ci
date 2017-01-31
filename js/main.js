@@ -56,11 +56,8 @@ $(function() {
       this.pupil = document.getElementById('pupil');
 
       // widths
-      // this.ew = this.eye.offsetWidth;
-      // this.pw = this.pupil.offsetWidth;
       this.ew = this.eye.getBoundingClientRect().width;
       this.pw = this.pupil.getBoundingClientRect().width;
-      console.log('this.pw', this.pw);
 
       // centered position
       this.cx = this.eye.getBoundingClientRect().right - this.ew / 2;
@@ -71,7 +68,7 @@ $(function() {
       var x, y;
 
       if (r > 1) r = 1; // clamp
-      r *= (this.ew/2 - this.pw/2); // restrict edge of pupil to edge of eye
+      r *= (this.ew/4 - this.pw/4); // restrict edge of pupil to edge of eye
 
       // convert polar to rectangular
       x = ( r * Math.cos(theta) + (this.ew - this.pw) / 2 ) - this.pw * 1.4;
