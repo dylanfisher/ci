@@ -259,8 +259,11 @@ $pupil-size: 30%;
 }
 
 .lecture-list {
+  padding-left: 0 !important;
+
   .lecture {
     margin-bottom: $line-height * 2;
+    padding-left: 0;
   }
 }
 

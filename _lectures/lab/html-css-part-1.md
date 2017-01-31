@@ -118,7 +118,7 @@ Each technology, at it's core, serves a single purpose.
 HTML is _not_ a programming language; it is a a markup language that provides the means to create content and structure
 from text. These documents are created from a series of semantics blocks (HTML tags). When crafting HTML pages, always
 keep in mind the semantics of the tag to best reflect the intent of the text. For example, a list of items makes
-more sense as an unordered list of list items (`<ul><li>`) than as a series of paragraph tags (`<p>`).
+more sense as an unordered list of list items `<ul><li>` than as a series of paragraph tags `<p>`.
 
 ### HTML is content, not style
 
@@ -196,7 +196,9 @@ elements on a page. The best way to do this is what _classes_ added to your HTML
 HTML elements can have many attributes added in between the first tag name. One of these attributes is `class`. A class
 gives you a way to select the element with CSS and Javascript.
 
-`<tagname class="my-class another-class test"></tagname>`
+```html
+<tagname class="my-class another-class test"></tagname>
+```
 
 ```html
 <p>Not so special. Mostly gray and sad.</p>

@@ -77,13 +77,37 @@ a {
     width: 100%;
     text-align: left;
 
-    td,
-    th {
+    th,
+    td {
       padding: 6px 10px;
+
+      &:first-child {
+        padding-left: $line-height * 2;
+      }
+
+      &:last-child {
+        padding-right: $line-height * 2;
+      }
     }
 
     th {
-      border-bottom: 1px solid #ccc;
+      border-bottom: 1px solid $black;
+      padding-top: 1em;
+      padding-bottom: 1em;
+    }
+
+    tr {
+      &:first-child {
+        td {
+          padding-top: 1em;
+        }
+      }
+
+      &:last-child {
+        td {
+          padding-bottom: 1em;
+        }
+      }
     }
   }
 } //.page-content

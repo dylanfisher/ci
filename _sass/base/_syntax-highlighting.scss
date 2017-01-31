@@ -22,10 +22,14 @@ pre,
 .highlight pre,
 .highlight .hll,
 .page-content table {
-  background-color: #faf4f3;
-  border: 1px solid #ccc;
-  padding: 6px 10px;
+  background-color: $code-background-color;
+  padding: $line-height * 2;
+  margin: $line-height * 3 0;
   border-radius: 4px;
+}
+
+div.highlighter-rouge + div.highlighter-rouge {
+  margin-top: -$line-height;
 }
 
 .highlight .c { color: #999988; font-style: italic; }
