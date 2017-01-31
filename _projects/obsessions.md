@@ -26,6 +26,10 @@ Website should be in html, css.
 Website must be responsive and work on a small screen (mobile)
 Archive must change in some way based on an interaction.
 
+### Guest Critic
+
+[Seth Hoekstra](http://www.sethhoekstra.com/)
+
 ### Deadlines
 
 Project due March 7
