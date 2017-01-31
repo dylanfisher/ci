@@ -28,7 +28,8 @@ pre,
   border-radius: 4px;
 }
 
-div.highlighter-rouge + div.highlighter-rouge {
+div.highlighter-rouge + div.highlighter-rouge,
+h3 + div.highlighter-rouge {
   margin-top: -$line-height;
 }
 
