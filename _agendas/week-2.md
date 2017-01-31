@@ -6,6 +6,16 @@ date_range:       1/31 – 2/3
 
 ### Tuesday, Studio
 
+- [Quick overview on readings + discussion](../assets/lectures/lecture2.pdf)
+- Look at book examples
+- [Workshop: Hovering](http://ci.nikasimovich.com/studio/hover-demo/index.html)
+- [Workshop files](https://github.com/dylanfisher/ci/raw/master/studio/hover-demo/hover-demo.zip)
+- [Nika reviews file structure for Remixes](../assets/guides/remixes.zip)
+- Students share progress on Remixes
+
+### Homework
+Finish Remixes
+
 ---
 
 ### Wednesday, Lab
