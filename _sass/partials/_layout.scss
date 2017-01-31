@@ -150,7 +150,7 @@
   left: 60px;
   height: 100vh;
   min-height: 550px;
-  width: 300px;
+  width: 160px;
   z-index: 2;
 
   @include breakpoint(sm) {
@@ -253,8 +253,15 @@ $pupil-size: 30%;
   margin-bottom: $line-height;
 }
 
-.project__categories {
+.project__categories,
+.lecture__date {
   margin-top: 5px;
+}
+
+.lecture-list {
+  .lecture {
+    margin-bottom: $line-height * 2;
+  }
 }
 
 .page-content {

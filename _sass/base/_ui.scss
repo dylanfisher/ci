@@ -72,7 +72,21 @@ a {
     background: black;
     margin: 3em 0;
   }
-}
+
+  table {
+    width: 100%;
+    text-align: left;
+
+    td,
+    th {
+      padding: 6px 10px;
+    }
+
+    th {
+      border-bottom: 1px solid #ccc;
+    }
+  }
+} //.page-content
 
 ::selection {
   background: $green;

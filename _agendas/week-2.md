@@ -13,6 +13,8 @@ date_range:       1/31 – 2/3
 - HTML introduction, semantic markup, basic CSS
 - Chrome DevTools overview
 
+View the lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
+
 ---
 
 

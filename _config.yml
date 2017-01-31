@@ -48,6 +48,8 @@ collections:
   students:
   agendas:
     output: true
+  lectures:
+    output: true
 
 # Collection Defaults
 defaults:
@@ -61,3 +63,8 @@ defaults:
     values:
       layout: agenda
       permalink: /:collection/:title
+  - scope:
+      type: lectures
+    values:
+      layout: lecture
+      permalink: :collection/:path
