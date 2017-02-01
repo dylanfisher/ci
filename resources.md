@@ -33,6 +33,7 @@ permalink: /resources/index.html
 - [Klim Type Foundry](https://klim.co.nz/)
 - [Hoefler & Co](http://www.typography.com/)
 - [Font Bureau](http://fontbureau.typenetwork.com/)
+- [Radim Pesko](http://www.radimpesko.com/)
 
 ### Website Inspiration
 
