@@ -36,7 +36,7 @@ permalink: /resources/index.html
 
 ### Website Inspiration
 
-- [Type Wolf](https://www.colophon-foundry.org/)
+- [Type Wolf](https://www.typewolf.com/)
 - [Hover States](http://hoverstat.es/)
 - [Delectable](http://www.ecogex.com/delectable/)
 - [Site Inspire](https://www.siteinspire.com/)
