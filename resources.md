@@ -47,7 +47,7 @@ pwd            # shows the path of the current folder you are in
 
 ```bash
 git status              # shows the status of your git repo
-git add -A              # add the changes on your Mac to a holding zone
-git commit -m 'message' # attaches the changes to a message
+git add -A              # add the changes you want to commit
+git commit -m 'message' # commit your changes with a message
 git push                # transfers the files to GitHub
 ```

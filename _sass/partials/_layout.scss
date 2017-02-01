@@ -366,3 +366,30 @@ a.agenda__row {
 .agenda-page-row {
   margin-bottom: $line-height * 2;
 }
+
+// Examples
+
+.css-selector-image-example {
+  background: $white;
+  padding: 1em;
+  text-align: center;
+
+  img {
+    filter: hue-rotate(69deg);
+  }
+}
+
+.box-model-example {
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  margin: 2em auto;
+  border: 1px dashed $black;
+  background: $white;
+  box-sizing: content-box;
+  padding: 30px;
+}
+
+.box-model-example__content-text {
+  line-height: 100px;
+}

@@ -30,6 +30,9 @@ date_range:       1/31 – 2/3
 
 - HTML introduction, semantic markup, basic CSS
 - Chrome DevTools overview
+- Box Model
+- Positioning in CSS
+- Work on Remixes project
 
 View the lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
 
@@ -50,7 +53,7 @@ View the lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
 - Prepare a PDF with 3 ideas for your Valentine's Day project. Each idea should have a description, references/mood board, and ideas on how it will change from print to web.
   <br><br>
   Please save the pdf on your github account using the below structure <br>
-  *username.github.io-master/projects/vday/sketches/vday-sketch-v01.pdf*
+  *username.github.io/projects/vday/sketches/vday-sketch-v01.pdf*
 
 ### Link Dump
 
@@ -58,3 +61,4 @@ View the lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
 - [worldsfavouritecolour.com](http://worldsfavouritecolour.com/)
 - [developer.chrome.com/devtools](https://developer.chrome.com/devtools)
 - [html5boilerplate.com](https://html5boilerplate.com/)
+- [futurepoem.com](http://www.futurepoem.com/)

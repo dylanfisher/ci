@@ -187,6 +187,12 @@ p {
 }
 ```
 
+### Structure of a CSS selector
+
+<div class="css-selector-image-example">
+  <img src="/assets/lectures/lab/html-css-part-1/css_selector.gif" alt="CSS Selector Example">
+</div>
+
 ### Targeting elements with CSS
 
 Individual HTML elements can be targeted directly with css, as in the example above. For example, the `body` element
@@ -308,3 +314,80 @@ any other valid css color format.
 However, the values that are available to the `margin` property are different than those of the `color` property. It wouldn't
 make sense to pass the color pink to a margin. Each CSS property is unique, and it's important to become familiar with the
 values that are available to each property.
+
+---
+
+### Box Model
+
+All HTML elements can be considered as boxes. In CSS, the term "box model" is used when talking about design and layout.
+
+The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. The image below illustrates the box model:
+
+![Box Model](/assets/lectures/lab/html-css-part-1/box-model.svg)
+
+- Content - The content of the box, where text and images appear
+- Padding - Clears an area around the content. The padding is transparent
+- Border - A border that goes around the padding and content
+- Margin - Clears an area outside the border. The margin is transparent
+
+The box model allows us to add a border around elements, and to define space between elements.
+
+<div class="box-model-example">
+  <span class="box-model-example__content-text">Box One</span>
+</div>
+
+<div class="box-model-example">
+  <span class="box-model-example__content-text">Box Two</span>
+</div>
+
+---
+
+### Positioning Elements in CSS
+
+Positioning in CSS is done is usually done with one of four attributes:
+
+- Static
+- Relative
+- Absolute
+- Fixed
+
+```css
+position: static;
+```
+
+HTML elements are positioned static by default.
+
+Static positioned elements are not affected by the top, bottom, left, and right properties.
+
+An element with `position: static;` is not positioned in any special way; it is always positioned according to the normal flow of the page.
+
+```css
+position: relative;
+```
+
+An element with `position: relative;` is positioned relative to its normal position.
+
+Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position. Other content will not be adjusted to fit into any gap left by the element.
+
+```css
+position: fixed;
+```
+
+An element with `position: fixed;` is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element.
+
+A fixed element does not leave a gap in the page where it would normally have been located.
+
+```css
+position: absolute;
+```
+
+An element with `position: absolute;` is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed).
+
+However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.
+
+[Read](http://www.w3schools.com/css/css_positioning.asp)
+[more](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+[about](http://alistapart.com/article/css-positioning-101)
+[CSS](https://css-tricks.com/almanac/properties/p/position/)
+[positioning](http://blog.teamtreehouse.com/css-positioning).
+
