@@ -45,10 +45,9 @@ permalink: /resources/index.html
 
 ### Color
 
+- [Colordot](https://color.hailpixel.com/)
 - [Coolors](https://coolors.co/)
 - [Hex to RGB](http://www.webpagefx.com/web-design/hex-to-rgb/)
-
-
 
 ### Miscellaneous
 
@@ -60,7 +59,6 @@ permalink: /resources/index.html
 
 - [Studio](https://docs.google.com/document/d/1-LIN4FORlRYX5_45RADrhr3LfToIexXmyZGbMISJmYE)
 - [Lab](https://docs.google.com/document/d/1gNgvpofgndUoILYK-CrLcgBZLtCq0qO_rVvKqQA0Q3I)
-
 
 ---
 
