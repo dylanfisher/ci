@@ -34,7 +34,7 @@ permalink: /resources/index.html
 - [Hoefler & Co](http://www.typography.com/)
 - [Font Bureau](http://fontbureau.typenetwork.com/)
 
-## Website Inspiration
+### Website Inspiration
 
 - [Type Wolf](https://www.colophon-foundry.org/)
 - [Hover States](http://hoverstat.es/)
@@ -42,7 +42,7 @@ permalink: /resources/index.html
 - [Site Inspire](https://www.siteinspire.com/)
 - [HTTPster](https://httpster.net/2017/jan/)
 
-## Color
+### Color
 
 - [Coolors](https://coolors.co/)
 - [Hex to RGB](http://www.webpagefx.com/web-design/hex-to-rgb/)
