@@ -14,6 +14,12 @@ permalink: /resources/index.html
 - [Git Basics](http://rogerdudler.github.io/git-guide/)
 - [Hacker News](https://news.ycombinator.com/)
 
+### Typography
+
+- [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
+- [Pro Web Type](https://prowebtype.com/)
+
+
 ### Miscellaneous
 
 - [Google Web Fonts](http://www.google.com/fonts)

@@ -13,8 +13,16 @@ date_range:       1/31 – 2/3
 - [Nika reviews file structure for Remixes](../assets/guides/remixes.zip)
 - Students share progress on Remixes
 
+### Examples from Class
+- [Blind, Sophie Calle](https://www.amazon.com/Sophie-Calle-Blind/dp/2330000588)
+- [Sunsets Working, Kayla Guthrie](http://bodega-us.org/sunsetsworking.html)
+- [Soldier, Emmett Williams](https://www.printedmatter.org/catalog/41532/)
+- [Sweethearts, Emmett Williams](https://www.amazon.com/Sweethearts-Emmett-Williams/dp/3865608108/ref=sr_1_1?ie=UTF8&qid=1485911509&sr=8-1&keywords=sweethearts+emmett+williams)
+
+
 ### Homework
-Finish Remixes
+
+- Finish Remixes
 
 ---
 
@@ -27,6 +35,22 @@ View the lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
 
 ---
 
+### Friday, Studio
+
+- [History of typography short](https://vimeo.com/65353988)
+- Where do we find inspiration?
+- Typsetting online exercise
+- Critique Remixes
+- [Introduce Valentine's Day Cards](../projects/valentines-day)
+
+### Homework
+
+- Vitoria, prepare your presentation on Michael Rock/2 &#xd7; 4 and [Fuck Content](http://2x4.org/ideas/2/fuck-content/)
+- [Discussion Question](https://docs.google.com/document/d/1zuDVjVfYF44mFwhwZym9uvchGzFYygl-tE3azKHCU_0/edit?usp=sharing)
+- Prepare a PDF with 3 ideas for your Valentine's Day project. Each idea should have a description, references/mood board, and ideas on how it will change from print to web.
+  <br><br>
+  Please save the pdf on your github account using the below structure <br>
+  *username.github.io-master/projects/vday/sketches/vday-sketch-v01.pdf*
 
 ### Link Dump
 
