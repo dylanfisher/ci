@@ -14,10 +14,39 @@ permalink: /resources/index.html
 - [Git Basics](http://rogerdudler.github.io/git-guide/)
 - [Hacker News](https://news.ycombinator.com/)
 
-### Typography
+### Typesetting
 
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 - [Pro Web Type](https://prowebtype.com/)
+- [Character Cheat Sheet](https://www.typewolf.com/assets/typewolf_typography_cheatsheet.pdf)
+- [WhatFont Tool](http://www.chengyinliu.com/whatfont.html)
+- [Fonts in Use](http://fontsinuse.com/)
+
+### Contemporary Type Foundries
+
+- [Colophon](https://www.colophon-foundry.org/)
+- [Milieu Grotesque](http://www.milieugrotesque.com/)
+- [Commercial Type](https://commercialtype.com/)
+- [Grilli Type](https://www.grillitype.com/)
+- [Village](http://vllg.com/)
+- [Lineto](https://lineto.com/)
+- [Klim Type Foundry](https://klim.co.nz/)
+- [Hoefler & Co](http://www.typography.com/)
+- [Font Bureau](http://fontbureau.typenetwork.com/)
+
+## Website Inspiration
+
+- [Type Wolf](https://www.colophon-foundry.org/)
+- [Hover States](http://hoverstat.es/)
+- [Delectable](http://www.ecogex.com/delectable/)
+- [Site Inspire](https://www.siteinspire.com/)
+- [HTTPster](https://httpster.net/2017/jan/)
+
+## Color
+
+- [Coolors](https://coolors.co/)
+- [Hex to RGB](http://www.webpagefx.com/web-design/hex-to-rgb/)
+
 
 
 ### Miscellaneous
