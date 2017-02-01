@@ -3,6 +3,26 @@ layout: page
 permalink: /resources/index.html
 ---
 
+### Navigating Terminal:
+
+```bash
+cd folder_name # moves inside the folder folder_name
+cd ..          # moves up one folder
+ls             # lists the contents of a folder
+pwd            # shows the path of the current folder you are in
+```
+
+### Git commands:
+
+```bash
+git status              # shows the status of your git repo
+git add -A              # add the changes you want to commit
+git commit -m 'message' # commit your changes with a message
+git push                # transfers the files to GitHub
+```
+
+---
+
 ### Programming
 
 - [GitHub](https://github.com/)
@@ -59,23 +79,3 @@ permalink: /resources/index.html
 
 - [Studio](https://docs.google.com/document/d/1-LIN4FORlRYX5_45RADrhr3LfToIexXmyZGbMISJmYE)
 - [Lab](https://docs.google.com/document/d/1gNgvpofgndUoILYK-CrLcgBZLtCq0qO_rVvKqQA0Q3I)
-
----
-
-### Navigating Terminal:
-
-```bash
-cd folder_name # moves inside the folder folder_name
-cd ..          # moves up one folder
-ls             # lists the contents of a folder
-pwd            # shows the path of the current folder you are in
-```
-
-### Git commands:
-
-```bash
-git status              # shows the status of your git repo
-git add -A              # add the changes you want to commit
-git commit -m 'message' # commit your changes with a message
-git push                # transfers the files to GitHub
-```
