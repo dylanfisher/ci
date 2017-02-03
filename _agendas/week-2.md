@@ -50,7 +50,7 @@ View the lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
 - Vitoria, prepare your presentation on Michael Rock/2 &#xd7; 4 and [Fuck Content](http://2x4.org/ideas/2/fuck-content/)
 - [Discussion Question](https://docs.google.com/document/d/1zuDVjVfYF44mFwhwZym9uvchGzFYygl-tE3azKHCU_0/edit?usp=sharing)
 - Prepare a PDF with 3 ideas for your Valentine's Day project. Each idea should have a description, references/mood board, and ideas on how it will change from print to web.
-  <br><br>Your deck should be formatted for screen (16:9 aspect ratio) and < 6 mb<br><br>
+  <br><br>Your deck should be formatted for screen (16:9 or 16:10 aspect ratio) and < 6 mb<br><br>
   Please save the pdf on your github account using the below structure <br>
   *username.github.io/projects/vday/sketches/vday-sketch-v01.pdf*
 
