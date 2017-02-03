@@ -43,6 +43,18 @@ permalink: /resources/index.html
 - [Site Inspire](https://www.siteinspire.com/)
 - [HTTPster](https://httpster.net/2017/jan/)
 
+### Other Design Inspiration
+
+- [It's Nice That](http://www.itsnicethat.com/)
+- [AIGA Eye on Design](https://eyeondesign.aiga.org/)
+- [Many Stuff](http://www.manystuff.org/)
+- [Under Consideration: FPO](http://www.underconsideration.com/fpo/)
+- [Raw Color](http://www.rawcolor.nl/welcome/)
+- [Women of Graphic Design](http://womenofgraphicdesign.org/)
+- [The Strange Attractor](http://thestrangeattractor.net/)
+- [Typetoken](http://www.typetoken.net/)
+- [Library of the Printed Web](http://libraryoftheprintedweb.tumblr.com/)
+
 ### Color
 
 - [Coolors](https://coolors.co/)
@@ -55,6 +67,7 @@ permalink: /resources/index.html
 - [Google Web Fonts](http://www.google.com/fonts)
 - [Font Squirrel Web Font Generator](http://www.fontsquirrel.com/tools/webfont-generator)
 - [Sidebar daily design links](http://sidebar.io/)
+- [Copy Paste Character](http://www.copypastecharacter.com/)
 
 ### Syllabi
 
