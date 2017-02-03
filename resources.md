@@ -88,6 +88,7 @@ git push                # transfers the files to GitHub
 - [Font Squirrel Web Font Generator](http://www.fontsquirrel.com/tools/webfont-generator)
 - [Sidebar daily design links](http://sidebar.io/)
 - [Copy Paste Character](http://www.copypastecharacter.com/)
+- [But Does it Float](http://butdoesitfloat.com/)
 
 ### Syllabi
 
