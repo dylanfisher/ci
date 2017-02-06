@@ -6,27 +6,24 @@ date_range:       2/6 – 2/10
 
 ### Tuesday, Studio
 
-- [Quick overview on readings + discussion](../assets/lectures/lecture2.pdf)
-- Look at book examples
-- [Workshop: Hovering](http://ci.nikasimovich.com/studio/hover-demo/index.html)
-- [Workshop files](https://github.com/dylanfisher/ci/raw/master/studio/hover-demo/hover-demo.zip)
-- [Nika reviews file structure for Remixes](../assets/guides/remixes.zip)
-- Students share progress on Remixes
+- Vitoria presents on Michael Rock
+- [Reading discussion](https://docs.google.com/document/d/1zuDVjVfYF44mFwhwZym9uvchGzFYygl-tE3azKHCU_0/edit?usp=sharin)
+- [Nika talks about digital publishing](../assets/lectures/lecture3.pdf)
+- Time permitting: typesetting workshop
+- Students share progress on Valentine's Day
 
-### Examples from Class
-- [Blind, Sophie Calle](https://www.amazon.com/Sophie-Calle-Blind/dp/2330000588)
-- [Sunsets Working, Kayla Guthrie](http://bodega-us.org/sunsetsworking.html)
-- [Soldier, Emmett Williams](https://www.printedmatter.org/catalog/41532/)
-- [Sweethearts, Emmett Williams](https://www.amazon.com/Sweethearts-Emmett-Williams/dp/3865608108/ref=sr_1_1?ie=UTF8&qid=1485911509&sr=8-1&keywords=sweethearts+emmett+williams)
+### Examples brought to Class
+- [Gratuitious Type](http://gratuitoustype.com/)
+- [Post-Digital Publishing Archive](http://p-dpa.net/)
+- [Wax Magazine](http://readwax.com/)
+- [The Thing Quarterly](https://thethingquarterly.com/)
 
 
 ### Homework
 
-- Finish Remixes
-
----
-
-### Wednesday, Lab
-
+- Bring in 2 sketches for both the digital and printed componenets to your Valentine's Day Project
+- Reading: *Post-Digital Printing, Chapter 1: The Death of Paper (Which Never Happened).*
+- Gyuri, prepare your presentation on the above
+- [Discussion Question](https://docs.google.com/document/d/1nXUK-2kcULpVtGcLBrtIh5Yw2nuNAJIEA8Y8vKsuOiA/edit?usp=sharing)
 
 ---
