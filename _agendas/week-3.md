@@ -22,7 +22,7 @@ date_range:       2/6 – 2/10
 ### Homework
 
 - Bring in 2 sketches for both the digital and printed componenets to your Valentine's Day Project
-- Reading: [*Post-Digital Printing, Chapter 1: The Death of Paper (Which Never Happened)*](../assets/readings/ludovico_alessandro_Post-Digital_Print._The_Mutation_of_Publishing.pdf)
+- Reading: [*Junkspace by Rem Koolhaas*](../assets/readings/koolhaas-rem_junkspace.pdf)
 - Gyuri, prepare your presentation on the above
 - [Discussion Question](https://docs.google.com/document/d/1nXUK-2kcULpVtGcLBrtIh5Yw2nuNAJIEA8Y8vKsuOiA/edit?usp=sharing)
 
