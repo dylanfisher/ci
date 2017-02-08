@@ -54,6 +54,8 @@ View the lecture: [HTML & CSS, Part 1](/lectures/lab/html-css-part-1)
   Please save the pdf on your github account using the below structure <br>
   *username.github.io/projects/vday/sketches/vday-sketch-v01.pdf*
 
+---
+
 ### Link Dump
 
 - [rojanasakul.com/interpretation](http://rojanasakul.com/interpretation.php)

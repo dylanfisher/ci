@@ -37,3 +37,10 @@ date_range:       2/6 – 2/10
 
 - Create an archive of all the drawings done in class (2 from each student). Refer to the [lecture](/lectures/lab/coding-from-life#homework) for more information.
 - Moon presents next week's [Weekly Interest](/projects/weekly_interest)
+
+---
+
+### Link Dump
+
+- [random.nu](http://www.random.nu/)
+- [rafsimons.com/fall17](http://rafsimons.com/fall17)
