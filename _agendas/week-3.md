@@ -40,6 +40,24 @@ date_range:       2/6 – 2/10
 
 ---
 
+### Friday, Studio
+
+- Gyuri presents on Rem Koolhaas
+- [Reading discussion](https://docs.google.com/document/d/1nXUK-2kcULpVtGcLBrtIh5Yw2nuNAJIEA8Y8vKsuOiA/edit?usp=sharing)
+- [Review: Exporting a digital PDF](../lectures/studio/exporting-digital-pdf) + Nika shares example
+- [Review: Saving for Web](../lectures/studio/saving-for-web)
+- [Review: Setting up for Print](../lectures/studio/setting-up-files)
+- [Field trip: Graphics Lab](http://resources.parsons.edu/labs/graphics-lab/)
+- Students share progress on Valentine's Day
+- Work on projects
+
+
+### Homework
+
+- Complete Project 2: Valentine's Day. You should have both the print and digital versions online and saved with a link to them on your homepage. Printed version must be printed. Bring enough for everyone in the class (11 cards).
+
+---
+
 ### Link Dump
 
 - [random.nu](http://www.random.nu/)
