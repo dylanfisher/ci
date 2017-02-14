@@ -408,7 +408,7 @@ a.agenda__row {
 
 .grid-example-col {
   float: left;
-  background: #fff;
+  background: $off-white;
   border: 1px solid #000;
   padding: $gutter;
   margin-bottom: $gutter;
@@ -427,3 +427,7 @@ a.agenda__row {
 .grid-example-col-10 { width: 83.33%; }
 .grid-example-col-11 { width: 91.66%; }
 .grid-example-col-12 { width: 100%; }
+
+.page-layout-example-image {
+  filter: hue-rotate(127deg);
+}

@@ -4,7 +4,7 @@ permalink: /agenda/index.html
 ---
 
 <ol class="agenda-list list--blank">
-  {% assign agendas = site.agendas | sort: 'start_date' %}
+  {% assign agendas = site.agendas | sort: 'start_date' | reverse %}
   {% for agenda in agendas %}
     <li class="agenda">
       <div class="row">
