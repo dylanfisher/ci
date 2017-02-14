@@ -1,7 +1,7 @@
 ---
 title:            Week 3
 start_date:       2017-01-24 00:00:00 -0500
-date_range:       2/6 – 2/10
+date_range:       2/7 – 2/10
 ---
 
 ### Tuesday, Studio

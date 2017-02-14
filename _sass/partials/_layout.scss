@@ -393,3 +393,37 @@ a.agenda__row {
 .box-model-example__content-text {
   line-height: 100px;
 }
+
+// Grid example
+
+.grid-example-container,
+.grid-example-container-fluid,
+.grid-example-row {
+  &:after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+}
+
+.grid-example-col {
+  float: left;
+  background: #fff;
+  border: 1px solid #000;
+  padding: $gutter;
+  margin-bottom: $gutter;
+}
+
+// Unit width: 100 / 12 = 8.33%
+.grid-example-col-1  { width: 8.33%; }
+.grid-example-col-2  { width: 16.66%; }
+.grid-example-col-3  { width: 25%; }
+.grid-example-col-4  { width: 33.33%; }
+.grid-example-col-5  { width: 41.66%; }
+.grid-example-col-6  { width: 50%; }
+.grid-example-col-7  { width: 58.33%; }
+.grid-example-col-8  { width: 66.66%; }
+.grid-example-col-9  { width: 75%; }
+.grid-example-col-10 { width: 83.33%; }
+.grid-example-col-11 { width: 91.66%; }
+.grid-example-col-12 { width: 100%; }
