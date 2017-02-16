@@ -106,6 +106,7 @@ If you wanted to limit the maximum width of your grid layout, you can wrap all o
 
 ```css
 .container {
+  box-sizing: border-box;
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
