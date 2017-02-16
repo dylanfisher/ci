@@ -95,11 +95,11 @@ If you wanted to limit the maximum width of your grid layout, you can wrap all o
 ```html
 <div class="container">
   <div class="row">
-    <div class="col-6">6</div>
-    <div class="col-6">6</div>
+    <div class="col col-6">6</div>
+    <div class="col col-6">6</div>
   </div>
   <div class="row">
-    <div class="col-12">12</div>
+    <div class="col col-12">12</div>
   </div>
 </div>
 ```
