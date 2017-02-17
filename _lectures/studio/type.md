@@ -73,7 +73,7 @@ Of course you can adjust type between moniter sizes, but if you get it right the
       font-size: 25px;
     }
     ```
-1. On the web, you need at least six different levels of hierarchy, even if you don't use them all. They are separated by H1 to H6. In this tutorial, we'll just focus on h1 through h3 to get a general idea. When you're designing a website that will use a CMS (such as wordpress)
+1. On the web, six different levels of hierarchy exist, even if you don't use them all. They are separated by H1 to H6. In this tutorial, we'll just focus on h1 and h2 to get a general idea. When you're designing a website that will use a CMS (such as wordpress)
 to house content, it&rsquo;s a safe bet to define all of these typesizes since the user will be editing them with a WYSIWYG editor.
 
 1. Leading works similarly to in print, however, you generally want more space on digital screens. I usually define leading with relative increments, but for simplicity we&rsquo;ll stick with numerical increments. In print, your leading is usually 2pts larger than your copy.
