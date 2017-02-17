@@ -84,6 +84,8 @@ On screens, this type of leading is generally too tight. I would aim for at leas
     ```
 1. A *measure* is the term used to describe the amount of characters per line. It is important to have a comfortable measure for reading. Generally, 45 to 75 characters per line are suggested. Many consider 65 characters ideal.
 Lines that are too long lose your interest, while short lines break up the copy too much. On a large screen, you need to set up a width. You do this by adding a `max-width` in the CSS.
+<br><br>
+Another method, introduced by Robert Bringhurst, is to multiply the type size by 30 to get the measure. Example: 10px font would be a measure of 300px.
 
     ```css
     max-width: 650px;
