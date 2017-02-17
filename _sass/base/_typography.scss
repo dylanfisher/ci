@@ -34,9 +34,7 @@ code {
   @include font-monospace;
 }
 
-p,
-ul,
-ol {
+p {
   pre,
   code {
     @include inline-code;

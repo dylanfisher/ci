@@ -17,7 +17,6 @@ date_range:       2/14 – 2/17
 - Kyle, prepare your reading presentation on Experimental Jetset and the above reading
 - [Discussion question](https://docs.google.com/document/d/1wx7NNjBJAJgroz4wA1gNpwhY-VmSqehdDS1kVRKsqEA/edit?usp=sharing)
 
-
 ---
 
 ### Wednesday, Lab
@@ -29,3 +28,21 @@ date_range:       2/14 – 2/17
 ### Homework
 
 - Jissaura presents next week's [Weekly Interest](/projects/weekly_interest)
+
+---
+
+### Friday, Studio
+- Kyle presents on Experimental Jetset
+- [Discussion](https://docs.google.com/document/d/1wx7NNjBJAJgroz4wA1gNpwhY-VmSqehdDS1kVRKsqEA/edit?usp=sharing)
+- [Typesetting Exercise 1](/lectures/studio/type)
+- Students present initial ideas for Project 3: Obsessions
+- Work for rest of class
+
+### Homework
+
+- Revise your idea for the project. Elaborate on your visual references and begin to think about how you'll organize the content.
+- Reading: [Interview with Experimental Jetset](http://www.designboom.com/design/experimental-jetset-interview/)
+- Gaurika, prepare your reading presentation on Metahaven/Daniel van der Velden and Research & Destory
+- [Discussion question](https://docs.google.com/document/d/1Pt6o_3SZ1jl8owZCKsCh1bACCghAytSPgUCGsA7TJPU/edit?usp=sharing)
+
+---
