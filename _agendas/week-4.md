@@ -41,7 +41,6 @@ date_range:       2/14 – 2/17
 ### Homework
 
 - Revise your idea for the project. Elaborate on your visual references and begin to think about how you'll organize the content.
-- Reading: [Interview with Experimental Jetset](http://www.designboom.com/design/experimental-jetset-interview/)
 - Gaurika, prepare your reading presentation on [Metahaven/Daniel van der Velden and Research & Destory](/assets/readings/van-der-Velden-research-and-destroy.pdf)
 - [Discussion question](https://docs.google.com/document/d/1Pt6o_3SZ1jl8owZCKsCh1bACCghAytSPgUCGsA7TJPU/edit?usp=sharing)
 
