@@ -17,3 +17,29 @@ date_range:       2/21 – 2/24
 - Create three completely different designs for your Obsessions project. Each idea should have a unique wireframe and include 3 pages: homepage and two interior pages. The designs must be contained inside of a presentation deck and be uploaded to your github account before the start of class. The PDF must be under 6mb. No 40 mb pdfs!!!
 - Reading: [Function as Narrative, Weiyi Li](/assets/readings/li-function-as-narrative.pdf)
 - [Discussion question](https://docs.google.com/document/d/1by_NNcE3WUnujxAa24-UMC13iPJZeY2Q0GyjgS8ND6g/edit?usp=sharing)
+
+---
+
+### Wednesday, Lab
+
+- Jissaura presents [Weekly Interest](/projects/weekly_interest)
+- Lexture/excercise: Flexbox and common UI patterns in web design
+- Project worktime
+
+### Resources
+
+- [learnlayout.com](http://learnlayout.com/)
+- [Philip Walton: Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+- [sketchingwithcss.com/samplechapter/cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html)
+
+### Homework
+
+- Carol presents next week's [Weekly Interest](/projects/weekly_interest)
+
+---
+
+### Link Dump
+
+- [pix2pix-tensorflow](http://affinelayer.com/pixsrv/index.html)
+- [I found the best anagram in English](http://blog.plover.com/lang/anagram-scoring.html)
+- [antiselfie.club](https://antiselfie.club/)
