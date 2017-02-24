@@ -47,8 +47,8 @@ date_range:       2/21 – 2/24
 ### Homework
 
 - Think of some questions to ask guest presentor, [Matthew Boblet](http://matthewboblet.com/)
-- Do a complete sketch of your website and put it in a presentation deck (You only need to show one of each page. I.E No need to show every individual archive item if you can click into each one)
-- Moon, prepare your presntation on [Two Translations and Linked by Air](http://ci.nikasimovich.com/assets/readings/michaelson-dan_multiplesignatures.pdf)
+- Do a complete sketch of your website and put it in a presentation deck (You only need to show one of each page. No need to show every individual archive item if you can click into each one)
+- Moon, prepare your presentation on [Two Translations and Linked by Air](http://ci.nikasimovich.com/assets/readings/michaelson-dan_multiplesignatures.pdf)
 - [Discussion question](https://docs.google.com/document/d/1gP-305fOQL49XQv9EhghSQkHVfemaJIztLLBBTmpe_w/edit?usp=sharing)
 
 ---
