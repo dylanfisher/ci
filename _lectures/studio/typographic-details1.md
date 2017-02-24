@@ -43,6 +43,3 @@ It takes two to tango<span style="color:OrangeRed">&mdash;</span>one to dance an
 4. Your turn: Typeset the following sentences correctly:<br><br>
 Thanks for recommending that song, Ignition (Remix) by R. Kelly. I know it reached its peak from 2003-2005 Im still into it.
 Back in those days, I was only 5"2" and my favorite band was o town.
-
-<br><br><br>
-*to be continued...*
