@@ -95,5 +95,5 @@ Another method, introduced by Robert Bringhurst, is to multiply the type size by
 
 ### Resources
 
-- [Pro Web Type](hhttps://prowebtype.com/)
+- [Pro Web Type](https://prowebtype.com/)
 - [Elements of Typographic Style](http://webtypography.net/)

@@ -13,7 +13,7 @@ categories:       Studio Lab
 4. The content can be found, your own, or a combination of both.
 5. Consider how the user interacts with your archive, and how the archive is experienced. Is it immediately accessible in its entirety, or is the user required to discover it?
 6. Project must have a title and favicon.
-7. Please include a paragraph on why you chose this collection of items to archive and your intention behind organizing it the way that you have.
+7. Please include a paragraph on why you chose this collection of items to archive and your intention behind organizing it the way that you have. This can be housed within the body of the content or in a separate colophon page.
 8. You will be graded on concept, execution, and consistency.
 
 ### Deliverables
@@ -22,8 +22,8 @@ Process: deck with ideas of archive, revised deck with sketches and wireframes o
 
 ### Technical Requirements
 
-Website should be in html, css.
-Website must be responsive and work on a small screen (mobile)
+Website should be in html, css. (no JS)<br>
+Website must be responsive and work on a small screen (mobile)<br>
 Archive must change in some way based on an interaction.
 
 ### Guest Critic
@@ -32,4 +32,4 @@ Archive must change in some way based on an interaction.
 
 ### Deadlines
 
-Project due March 7
+Project due March 17

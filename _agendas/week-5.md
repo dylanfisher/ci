@@ -38,6 +38,21 @@ date_range:       2/21 – 2/24
 
 ---
 
+### Friday, Studio
+- [Discussion](https://docs.google.com/document/d/1by_NNcE3WUnujxAa24-UMC13iPJZeY2Q0GyjgS8ND6g/edit?usp=sharing)
+- [Typographic Details Volume 1](/lectures/studio/typographic-details1)
+- Individual meetings with students
+- Work for rest of class
+
+### Homework
+
+- Think of some questions to ask guest presentor, [Matthew Boblet](http://matthewboblet.com/)
+- Do a complete sketch of your website and put it in a presentation deck (You only need to show one of each page. I.E No need to show every individual archive item if you can click into each one)
+- Moon, prepare your presntation on [Two Translations and Linked by Air](http://ci.nikasimovich.com/assets/readings/michaelson-dan_multiplesignatures.pdf)
+- [Discussion question](https://docs.google.com/document/d/1gP-305fOQL49XQv9EhghSQkHVfemaJIztLLBBTmpe_w/edit?usp=sharing)
+
+---
+
 ### Link Dump
 
 - [pix2pix-tensorflow](http://affinelayer.com/pixsrv/index.html)
