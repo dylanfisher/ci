@@ -1,5 +1,5 @@
 ---
-title:            Tyoographic Details Volume 1
+title:            Typographic Details Volume 1
 lecture_date:     2017-02-23 00:00:00 -0500
 section:          Studio
 ---
