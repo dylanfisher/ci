@@ -27,3 +27,19 @@ date_range:       2/28 – 3/3
 
 - Begin programming [Obsessions](/projects/obsessions) projects. Next week we'll look at each project and review code.
 - Gyuri presents next week's [Weekly Interest](/projects/weekly_interest)
+
+---
+
+### Friday, Studio
+
+- Sketching longer form pages. Infinite space online.
+- Sketch plugins: [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin), [Style Inventory](https://github.com/getflourish/Sketch-Style-Inventory)
+- Questions about Sketch
+- Individual [Obsessions](/projects/obsessions) meetings
+
+### Homework
+
+- Begin programming [Obsessions](/projects/obsessions) projects.
+- Reading [What Design Means for Me by Karel Martens](http://ci.nikasimovich.com/assets/readings/martens-karel_what-design-means-to-me.pdf)
+- [Discussion question](https://docs.google.com/document/d/1u9YzlVlWybXNrVRZprGG2B2o1GPysWDT4bLZ5M9MyEw/edit?usp=sharing)
+- Liz, prepare your presentation on the above
