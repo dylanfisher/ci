@@ -1,7 +1,7 @@
 ---
 title:            Week 7
 start_date:       2017-01-24 00:00:00 -0500
-date_range:       3/6 – 3/10
+date_range:       3/7 – 3/10
 ---
 
 ### Tuesday, Studio
@@ -24,7 +24,22 @@ date_range:       3/6 – 3/10
 
 ---
 
+### Wednesday, Lab
+
+- Carol and Gyuri present [Weekly Interest](/projects/weekly_interest)
+- Lecture: [Media Queries and Mobile First Design](/lectures/lab/media-queries-and-mobile-first-design)
+- Project worktime
+
+### Homework
+
+- Continue programming [Obsessions](/projects/obsessions) projects and _push your code to GitHub_ as you continue to work. I'll be
+  reviewing your code throughout the week and commenting on issues and places for improvement.
+- Vitoria presents next week's [Weekly Interest](/projects/weekly_interest)
+
+---
+
 ### Link Dump
 
 - [Balenciaga site by Bureau Mirko Borsche](https://www.balenciaga.com/us/)
-- [WCMA](http://wcma.williams.edu/)
+- [WCMA by Linked by Air](http://wcma.williams.edu/)
+- [SNAKISMS](https://pippinbarr.github.io/SNAKISMS/)
