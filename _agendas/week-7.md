@@ -38,6 +38,18 @@ date_range:       3/7 – 3/10
 
 ---
 
+### Friday, Studio
+- Midterm Review and project check ins with Nika
+- Work Day
+
+### Homework
+
+- Continue working on your project, Tuesday will be the last time to work with me before the final is due
+- [Watch The Internet With A Human Face by Maciej Ceglowski](https://www.youtube.com/watch?v=fWFo1VaQNmU)
+- [Discussion Question](https://docs.google.com/document/d/1FOwRX0VPaZTgWW8uJxrUrG-fxvgz7fRpPvb5chbK89w/edit?usp=sharing)
+
+---
+
 ### Link Dump
 
 - [Balenciaga site by Bureau Mirko Borsche](https://www.balenciaga.com/us/)
