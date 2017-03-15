@@ -10,3 +10,16 @@ date_range:       3/14 – 3/17
 ### Homework
 
 - Finish your project
+
+---
+
+### Wednesday, Lab
+
+- Gyuri presents [Weekly Interest](/projects/weekly_interest)
+- Review common coding issues
+- Project worktime
+
+### Homework
+
+- Finish programming [Obsessions](/projects/obsessions) projects. Final crit is on Friday. All projects must be finished by 9am Friday.
+- Vitoria presents the next [Weekly Interest](/projects/weekly_interest)
