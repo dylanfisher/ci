@@ -27,7 +27,7 @@ date_range:       3/14 – 3/17
 ---
 
 ### Friday, Studio
-- Here from guest critic, [Seth Hoekstra](http://www.sethhoekstra.com/)
+- Hear from guest critic, [Seth Hoekstra](http://www.sethhoekstra.com/)
 - Midterm Critique
 
 ### Homework
