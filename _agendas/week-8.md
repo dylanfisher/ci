@@ -35,4 +35,3 @@ date_range:       3/14 – 3/17
 - [Watch The Internet With A Human Face by Maciej Ceglowski](https://www.youtube.com/watch?v=fWFo1VaQNmU)
 - [Discussion Question](https://docs.google.com/document/d/1FOwRX0VPaZTgWW8uJxrUrG-fxvgz7fRpPvb5chbK89w/edit?usp=sharing)
 - Enjoy spring break
-<br><br>![Spring break forever](../assets/imgs/spring-break.gif)
