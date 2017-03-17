@@ -23,3 +23,16 @@ date_range:       3/14 – 3/17
 
 - Finish programming [Obsessions](/projects/obsessions) projects. Final crit is on Friday. All projects must be finished by 9am Friday.
 - Vitoria presents the next [Weekly Interest](/projects/weekly_interest)
+
+---
+
+### Friday, Studio
+- Here from guest critic, [Seth Hoekstra](http://www.sethhoekstra.com/)
+- Midterm Critique
+
+### Homework
+
+- [Watch The Internet With A Human Face by Maciej Ceglowski](https://www.youtube.com/watch?v=fWFo1VaQNmU)
+- [Discussion Question](https://docs.google.com/document/d/1FOwRX0VPaZTgWW8uJxrUrG-fxvgz7fRpPvb5chbK89w/edit?usp=sharing)
+- Enjoy spring break
+<br><br>![Spring break forever](../assets/imgs/spring-break.gif)
