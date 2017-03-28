@@ -1,7 +1,7 @@
 ---
 title:            Dream Vacation
 date:             2017-01-22 00:00:00 -0500
-index:            6
+index:            5
 categories:       Studio Lab
 ---
 
