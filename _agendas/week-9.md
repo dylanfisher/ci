@@ -8,6 +8,7 @@ date_range:       3/28 – 3/31
 - Welcome back from Spring Break
 - [Discussion on The Internet with a Human Face](https://docs.google.com/document/d/1FOwRX0VPaZTgWW8uJxrUrG-fxvgz7fRpPvb5chbK89w/edit?usp=sharing)
 - [Nika lectures on Art in Public](../assets/lectures/lecture6.pdf)
+- [Introduce Project 4, Loveletter](../projects/loveletter)
 - Students take 15 minutes to jot down a couple sentences about their first memory of the internet. Share with class.
 - Get started on homework
 
