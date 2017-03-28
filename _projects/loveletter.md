@@ -1,5 +1,5 @@
 ---
-title:            Loveletter to an<br> Archived Element
+title:            Love Letter to an<br> Archived Element
 date:             2017-01-22 00:00:00 -0500
 index:            4
 categories:       Studio Lab
