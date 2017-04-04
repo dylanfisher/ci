@@ -28,7 +28,7 @@ date_range:       4/4 – 4/7
 ### Homework
 
 - Finish designing your website based on the feedback shared in class
-- Carol presents on [Paul Ford, What is Code Chapters 1 through 3](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+- Carol presents on [Paul Ford, What is Code Chapters 1 and 2](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - [Reading and Discussion Question](https://docs.google.com/document/d/1jBOWuuT8cvOZWZOuZhoyy5Sww0KESxEIzbnDP5K5C1M/edit?usp=sharing)
 
 ---
