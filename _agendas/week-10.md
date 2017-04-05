@@ -32,3 +32,14 @@ date_range:       4/4 – 4/7
 - [Reading and Discussion Question](https://docs.google.com/document/d/1jBOWuuT8cvOZWZOuZhoyy5Sww0KESxEIzbnDP5K5C1M/edit?usp=sharing)
 
 ---
+
+### Wednesday, Lab
+
+- Fish presents [Weekly Interest](/projects/weekly_interest)
+- JavaScript quiz
+- Lecture: [jQuery and DOM Manipulation](/lectures/lab/jquery-and-dom-manipulation)
+
+### Homework
+
+- Prepare for next week's in-class jQuery quiz
+- Ana presents the next [Weekly Interest](/projects/weekly_interest)

@@ -1,6 +1,6 @@
 ---
 title:            Media Queries and Mobile First Design
-lecture_date:     2017-03-07 00:00:00 -0500
+lecture_date:     2017-03-08 00:00:00 -0500
 section:          Lab
 ---
 

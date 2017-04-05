@@ -1,7 +1,7 @@
 ---
 title:            JavaScript Introduction
 subtitle:         An introduction to the web's programming language
-lecture_date:     2017-03-28 00:00:00 -0500
+lecture_date:     2017-03-29 00:00:00 -0500
 section:          Lab
 ---
 

@@ -21,6 +21,6 @@ ongoing:          true
 - 3/8 Gyuri Nam
 - 3/29 Vitoria Feitosa Di Iulio
 - 4/5 Nafisa Afrin Iqbal
-- 4/19 Ana Sofia Murillo
-- 4/26 Elizabeth Tsai
-- 5/3 Gaurika Milan Dalal
+- 4/12 Ana Sofia Murillo
+- 4/19 Elizabeth Tsai
+- 4/26 Gaurika Milan Dalal
