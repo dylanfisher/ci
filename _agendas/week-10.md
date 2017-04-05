@@ -36,7 +36,7 @@ date_range:       4/4 – 4/7
 ### Wednesday, Lab
 
 - Fish presents [Weekly Interest](/projects/weekly_interest)
-- JavaScript quiz
+- [JavaScript quiz](/lectures/lab/javascript-quiz)
 - Lecture: [jQuery and DOM Manipulation](/lectures/lab/jquery-and-dom-manipulation)
 
 ### Homework
