@@ -56,5 +56,5 @@ date_range:       4/4 – 4/7
 
 ### Homework
 
-- Continue working on the project
+- Continue working on the project. Please have 3 finalized sketches of your project. This means 3 completely different looking directions with enough information that a programmer would know how to program it.
 - Read chapters 3 and 4 of [Paul Ford, What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
