@@ -43,3 +43,18 @@ date_range:       4/4 – 4/7
 
 - Prepare for next week's in-class jQuery quiz
 - Ana presents the next [Weekly Interest](/projects/weekly_interest)
+
+---
+
+### Friday, Studio
+- Nafisa presents on James Bridle
+- Carol presents on Paul Ford, What is Code?
+- [Discussion](https://docs.google.com/document/d/1jBOWuuT8cvOZWZOuZhoyy5Sww0KESxEIzbnDP5K5C1M/edit?usp=sharing)
+- Class work day
+- Individual meetings with Nika
+
+
+### Homework
+
+- Continue working on the project
+- Read chapters 3 and 4 of [Paul Ford, What is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
