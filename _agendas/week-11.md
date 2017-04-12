@@ -18,6 +18,18 @@ date_range:       4/11 – 4/14
 
 ---
 
+### Wednesday, Lab
+
+- Ana presents [Weekly Interest](/projects/weekly_interest)
+- Project worktime and individual programming help
+
+### Homework
+
+- Liz presents the next [Weekly Interest](/projects/weekly_interest)
+
+---
+
 ### Link Dump
 
 - [Click Click Click by Studio Moniker](https://clickclickclick.click/)
+- [AutoDraw](https://www.autodraw.com/)
