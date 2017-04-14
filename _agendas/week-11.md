@@ -29,6 +29,23 @@ date_range:       4/11 – 4/14
 
 ---
 
+### Friday, Studio
+- What makes an interesting presentation? What are the best ways to talk about your work?
+- [Martine Syms talking about her work](https://www.youtube.com/watch?v=FtccjNnTvP4&list=PLzwe3b-aUJ1HAZe9KOdi1Swt-TSSloRnK)
+- [April Greiman taking about her work](https://www.youtube.com/watch?v=DoDItJ4zI98)
+- Describe what&rsquo;s being presented, explain inspiration, explain thoughts behind it, what is the backstory?
+- Have an opinion, be knowledgable, be confident
+- Simplify your project to things you know how to code. You don&rsquo;t neeed crazy effects to have a strong project.
+- Borrowing fonts from GitHub
+- Individual meetings with Nika
+- Work day
+
+
+### Homework
+
+-Finish your project and be ready to present this project and a previous project on Tuesday
+
+
 ### Link Dump
 
 - [Click Click Click by Studio Moniker](https://clickclickclick.click/)
