@@ -5,9 +5,9 @@ date_range:       4/18 – 4/21
 ---
 
 ### Tuesday, Studio
-- Critique with guests: Matthew Boblet, Gunjan Raheja and professors Nika Simovich and Dylan Fisher.
+- Critique with guest: Matthew Boblet and professors Nika Simovich and Dylan Fisher.
 - Students will present the Love Letter Project first, class will discuss, and then present a previous project and the class will discuss again.
-- Order: Vitoria, Liz, Nafisa, Gaurika, Moon, Jissaura, Kyle, Ana, Gyrui, Carol.
+- Order: Vitoria, Nafisa, Gaurika, Moon, Jissaura, Kyle, Ana, Gyrui, Carolm, Liz.
 
 
 ### Homework
