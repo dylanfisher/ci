@@ -7,7 +7,7 @@ date_range:       4/18 – 4/21
 ### Tuesday, Studio
 - Critique with guest: Matthew Boblet and professors Nika Simovich and Dylan Fisher.
 - Students will present the Love Letter Project first, class will discuss, and then present a previous project and the class will discuss again.
-- Order: Vitoria, Nafisa, Gaurika, Moon, Jissaura, Kyle, Ana, Gyrui, Carolm, Liz.
+- Order: Vitoria, Nafisa, Gaurika, Moon, Jissaura, Kyle, Ana, Gyrui, Carol, Liz.
 
 
 ### Homework
