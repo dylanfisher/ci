@@ -33,8 +33,16 @@ date_range:       4/18 – 4/21
 
 ### Friday, Studio
 - Liz, Gyuri, and Vitoria present their projects
-- How do you present interactive work? [Example 1: mix of still and video](http://wax-studios.com/projects/arper_website), [Example 2: video in use](https://www.studiomoniker.com/projects/ik-durf-niet-te-zeggen-dat), [Example 3: interactive composition with screengrabs](http://office.adrianaramic.com/),
-   [Example 4: quick demo video](https://www.roandcostudio.com/#3), [Example 5: quick demo video](http://www.andrewherzog.com/index.html), [Example 6: Abstracted compositions](http://allanyu.nyc/), [Example 7: Videos with text and images](http://2017.matthewboblet.com/), [Example 8: Screenshots](http://www.projectprojects.com/projects/types/web), [Example 9: Part of a Brand Story](http://www.projectprojects.com/projects/types/web)
+- How do you present interactive work?
+  - [Example 1: mix of still and video](http://wax-studios.com/projects/arper_website),
+  - [Example 2: video in use](https://www.studiomoniker.com/projects/ik-durf-niet-te-zeggen-dat),
+  - [Example 3: interactive composition with screengrabs](http://office.adrianaramic.com/),
+  - [Example 4: quick demo video](https://www.roandcostudio.com/#3),
+  - [Example 5: quick demo video](http://www.andrewherzog.com/index.html),
+  - [Example 6: Abstracted compositions](http://allanyu.nyc/),
+  - [Example 7: Videos with text and images](http://2017.matthewboblet.com/),
+  - [Example 8: Screenshots](http://www.projectprojects.com/projects/types/web),
+  - [Example 9: Part of a Brand Story](http://www.projectprojects.com/projects/types/web)
 - Quicktime video example, [Framer](https://framer.com/)
 - Class exercise. Step 1: Partner up Step 2: Archive one of your partner's class projects on a simple HTML page
 - Students present their class homepage and their partner's archive
