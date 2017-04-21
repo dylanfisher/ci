@@ -53,7 +53,7 @@ date_range:       4/18 – 4/21
 
 ### Homework
 
-- Jissaura presents on [Superstudio, Mindscapes]((/assets/readings/superstudio-mindscapes.pdf))
+- Jissaura presents on [Superstudio, Mindscapes](/assets/readings/superstudio-mindscapes.pdf)
 - [Discussion Question](https://docs.google.com/a/nikasimovich.com/document/d/1C_6ttePVfyYIR5f-OQb-Z8MxDQKKLqube94d7vgOwwg/edit?usp=sharing)
 - 3 concepts for Dream Vacation, with research, mood boards and references in PDF format. Be prepared to present.
 
