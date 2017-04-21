@@ -43,7 +43,7 @@ date_range:       4/18 – 4/21
   - [Example 7: Videos with text and images](http://2017.matthewboblet.com/),
   - [Example 8: Screenshots](http://www.projectprojects.com/projects/types/web),
   - [Example 9: Part of a Brand Story](http://www.projectprojects.com/projects/types/web)
-- Quicktime video example, [Framer](https://framer.com/)
+- Quicktime video example, [Framer](https://framer.com/) is a good tool for prototyping, you can also export these assets if your website never got produced.
 - Class exercise. Step 1: Partner up Step 2: Archive one of your partner's class projects on a simple HTML page
 - Students present their class homepage and their partner's archive
 - Introduce [Dream Vacation](/projects/dreamvacation)
