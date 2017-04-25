@@ -24,7 +24,7 @@ In addition, the website should have a differentiated experience on mobile than 
 
 ### Deadlines
 April 25: 3 concepts for the project, with research, mood boards and references<br>
-April 27: Revised concept with 3 different design directions/initial sketches (Homepage and 1 supporting page for each sketch)<br>
+April 28: Revised concept with 3 different design directions/initial sketches (Homepage and 1 supporting page for each sketch)<br>
 May 2: Finalized design due fully fleshed out based on feedback<br>
 May 3: Lab work day<br>
 May 5: Studio work day, continue with programming<br>
