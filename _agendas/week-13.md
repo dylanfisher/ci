@@ -1,6 +1,6 @@
 ---
 title:            Week 13
-start_date:       2017-04-18 00:00:00 -0500
+start_date:       2017-04-24 00:00:00 -0500
 date_range:       4/24 – 4/28
 ---
 
@@ -18,6 +18,19 @@ date_range:       4/24 – 4/28
 - Ana presents on [Super Normal](https://2021supernormal.wordpress.com/dialogue-defining-super-normal-jasper-and-naoto/)
 - [Discussion Question](https://docs.google.com/document/d/1AuNkWYs9prEiZQWlkVdSzoZG_go9kmdAEH6_UkOsn_s/edit?usp=sharingc)
 - Revised concept with 3 different design directions/initial sketches (Homepage and 1 supporting page for each sketch)
+
+---
+
+### Wednesday, Lab
+
+- Liz and Gaurika present [Weekly Interest](/projects/weekly_interest)
+- Compare last week's pixel perfect design exercise results: [HTML, CSS and jQuery in-class exercises](/lectures/lab/html-css-jquery-in-class-exercises)
+- In-class excercise: [Quick Prototyping](/lectures/lab/quick-prototyping)
+
+### Homework
+
+- Continue to work on Dream Vacation project. Make sure that you understand what is involved in the JavaScript interactions that
+  you plan to implement in your website. Don't design a website that is too far beyond your technical skill.
 
 ---
 

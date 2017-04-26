@@ -5,6 +5,70 @@ section:          Lab
 hidden:           true
 ---
 
+### Results
+
+Group 1
+
+- chonc268<br>
+  [1](https://chonc268.github.io/projects/labexercises/class_exercies/1/index.html),
+  [2](https://chonc268.github.io/projects/labexercises/class_exercies/2/index.html),
+  [3](https://chonc268.github.io/projects/labexercises/class_exercies/3/index.html),
+  [4](https://chonc268.github.io/projects/labexercises/class_exercies/4/index.html),
+  [5](https://chonc268.github.io/projects/labexercises/class_exercies/5/index.html),
+  [6](https://chonc268.github.io/projects/labexercises/class_exercies/6/index.html),
+  [7](https://chonc268.github.io/projects/labexercises/class_exercies/7/index.html),
+  [8](https://chonc268.github.io/projects/labexercises/class_exercies/8/index.html)
+- yuk114<br>
+  [1](https://yuk114.github.io/projects/html:css:jquery/1/index.html),
+  [2](https://yuk114.github.io/projects/html:css:jquery/2/index.html),
+  [3](https://yuk114.github.io/projects/html:css:jquery/3/index.html),
+  [4](https://yuk114.github.io/projects/html:css:jquery/4/index.html),
+  [5](https://yuk114.github.io/projects/html:css:jquery/5/index.html),
+  [6](https://yuk114.github.io/projects/html:css:jquery/6/index.html),
+  [7](https://yuk114.github.io/projects/html:css:jquery/7/index.html),
+  [8](https://yuk114.github.io/projects/html:css:jquery/8/index.html)
+- iqban943<br>
+  [1](https://iqban943.github.io/projects/lab/1/index.html),
+  [2](https://iqban943.github.io/projects/lab/2/index.html),
+  [3](https://iqban943.github.io/projects/lab/3/index.html),
+  [4](https://iqban943.github.io/projects/lab/4/index.html),
+  [5](https://iqban943.github.io/projects/lab/5/index.html),
+  [6](https://iqban943.github.io/projects/lab/6/index.html),
+  [7](https://iqban943.github.io/projects/lab/7/index.html),
+  [8](https://iqban943.github.io/projects/lab/8/index.html)
+
+Group 2
+
+- dalag884<br>
+  [1](https://dalag884.github.io/projects/inclass%20coding/task%201/index.html),
+  [2](https://dalag884.github.io/projects/inclass%20coding/task%202/index.html),
+  [3](https://dalag884.github.io/projects/inclass%20coding/task%203/index.html),
+  [4](https://dalag884.github.io/projects/inclass%20coding/task%204/index.html),
+  [5](https://dalag884.github.io/projects/inclass%20coding/task%205/index.html),
+  [6](https://dalag884.github.io/projects/inclass%20coding/task%206/index.html),
+  [7](https://dalag884.github.io/projects/inclass%20coding/task%207/index.html),
+  [8](https://dalag884.github.io/projects/inclass%20coding/task%208/index.html)
+- jom663<br>
+  [1](https://jom663.github.io/projects/exercise/1.%20Inline%20Block%20and%20Feather/index.html),
+  [2](https://jom663.github.io/projects/exercise/2.%20Quotes%20in%20Cards/index.html),
+  [3](https://jom663.github.io/projects/exercise/3.%20Flexible%20Checkerboard/index.html),
+  [4](https://jom663.github.io/projects/exercise/4.%20Contain%20Yourself/index.html),
+  [5](https://jom663.github.io/projects/exercise/5.%20Text%20Toggler/index.html),
+  [6](https://jom663.github.io/projects/exercise/6.%20Go%20Fly/index.html),
+  [7](https://jom663.github.io/projects/exercise/7.%20Random%20Boxes/index.html),
+  [8](https://jom663.github.io/projects/exercise/8.%20Extra%20Credit/index.html)
+- muria590<br>
+  [1](https://muria590.github.io/projects/js_examples/1/index.html),
+  [2](https://muria590.github.io/projects/js_examples/2/index.html),
+  [3](https://muria590.github.io/projects/js_examples/3/index.html),
+  [4](https://muria590.github.io/projects/js_examples/4/index.html),
+  [5](https://muria590.github.io/projects/js_examples/5/index.html),
+  [6](https://muria590.github.io/projects/js_examples/6/index.html),
+  [7](https://muria590.github.io/projects/js_examples/7/index.html),
+  [8](https://muria590.github.io/projects/js_examples/8/index.html)
+
+---
+
 ### Instructions
 
 1. Download the [starter kit](/assets/lectures/lab/html-css-jquery-in-class-exercises/starter_kit.zip).
