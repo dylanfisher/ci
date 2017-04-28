@@ -34,6 +34,30 @@ date_range:       4/24 – 4/28
 
 ---
 
+### Friday, Studio
+- Ana presents on [Super Normal](https://2021supernormal.wordpress.com/dialogue-defining-super-normal-jasper-and-naoto/)
+- [Discussion](https://docs.google.com/document/d/1AuNkWYs9prEiZQWlkVdSzoZG_go9kmdAEH6_UkOsn_s/edit?usp=sharingc)
+- Students get into groups of two and present their projects to each other. Create a google doc and answer the following questions about your partner&rsquo;s work:<br>
+  - What is the central theme in all the directions?
+  - What is most similar between the designs and what is most different?
+  - Which design is the most cohesive at the moment? What is it communicating?
+  - Which design is the least successful? Why?
+  - Is the interaction in each direction supporting the concept or is it distracting from it?
+  - Which formal graphic design qualities (structure, grids, consistency, typography, color, scale...) are working? Which aren't? What would help refine the overall design?
+  - Does the title of the project feel approrpiate?
+  - How can the central theme be elaborated upon? What could push the project even further?
+- I will meet with you and your partner
+- Work Day
+- Please complete the course evaluation if you haven&rsquo;t already
+
+
+### Homework
+
+- Finalized design due fully fleshed out based on feedback
+- Suggested homework: start programming
+
+
 ### Link Dump
 
 - [Source Han Serif](https://source.typekit.com/source-han-serif/#team)
+- [Oto Nove Swiss](http://www.otonoveswiss.co.uk/)
