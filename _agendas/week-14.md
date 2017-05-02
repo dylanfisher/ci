@@ -7,7 +7,7 @@ date_range:       5/2 – 5/6
 ### Tuesday, Studio
 - Individual Meetings
 - Work day
-- Time permitting, watch video
+- Time permitting, [watch video](https://www.youtube.com/watch?v=2pHsnavgw3U&index=6&list=PLUvg6tjVXsblGZsYls4HxNx-jsdQDqQqC)
 
 
 ### Homework
