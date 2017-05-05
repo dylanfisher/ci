@@ -34,6 +34,23 @@ date_range:       5/2 – 5/5
 
 ---
 
+### Friday, Studio
+- Get into small groups (Nika to form)
+- We will have mini critiques, you will introduce your project and your classmates will go over these questions:
+- What is the point of the project?
+- Are the design decisions supporting the central idea? In what way?
+- Are the interactions supporting the design? In what way?
+- Which formal graphic design qualities (structure, grids, consistency, typography, color, scale...) are working? Which aren't? What would help refine the overall design?
+- Does the title of the project feel approrpiate?
+- How can the central theme be elaborated upon? What could push the project even further?
+- What are the technical limitations? How can we figure it out, or try something else?
+
+### Homework
+
+- Continue working on your project
+
+---
+
 ### Link Dump
 
 - [a-school-a-park.ca](http://www.a-school-a-park.ca/)
