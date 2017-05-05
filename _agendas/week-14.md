@@ -35,6 +35,7 @@ date_range:       5/2 – 5/5
 ---
 
 ### Friday, Studio
+- Quickly chat about email design
 - Get into small groups (Nika to form)
 - We will have mini critiques, you will introduce your project and your classmates will go over these questions:
 - What is the point of the project?
