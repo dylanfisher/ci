@@ -18,7 +18,7 @@ In addition, the website should have a differentiated experience on mobile than 
 - Must use Javascript or jQuery in some capacity
 - Must work on a variety of break points
 - Must respond to time in a poetic manner
-- Must respond to device in a poetic manner (It should feel like a differenet but related experience on a small screen size)
+- Must respond to device in a poetic manner (It should feel like a different but related experience on a small screen size)
 
 
 
