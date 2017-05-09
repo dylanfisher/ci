@@ -8,7 +8,7 @@ date_range:       5/9 – 5/12
 - Final Work Day!
 - Review project requirements
 - Individual meetings
-- [Watch Superintelligence]('https://www.youtube.com/watch?v=kErHiET5YPw&t=1s')
+- [Watch Superintelligence](https://www.youtube.com/watch?v=kErHiET5YPw&t=1s)
 
 ### Homework
 
