@@ -30,6 +30,6 @@ May 3: Lab work day<br>
 May 5: Studio work day, continue with programming<br>
 May 9: Studio work day, continue with programming<br>
 May 10: Lab work day<br>
-May 12: Final presentation with guest critic [Abby Chen](http://abbychen.me/)
+May 12: Final presentation with guest critic [Abby Chen](http://abbychen.me/) and [Nadine Muhtadi](http://cargocollective.com/nadinemuhtadi)
 
 
